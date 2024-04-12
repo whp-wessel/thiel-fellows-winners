@@ -6,14 +6,14 @@ import { Analytics } from '@vercel/analytics/react';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Emergent Ventures Winners',
-  description: 'Semantic search for all Emergent Ventures winners.',
+  title: 'Thiel Fellowship Winners',
+  description: 'Semantic search for all Thiel Fellowship winners.',
   twitter: {
     card: "summary_large_image",
-    title: "Emergent Ventures Winners",
-    description: "Semantic search for all Emergent Ventures winners.",
-    creator: "@nabeelqu",
-    images: ["https://www.mercatus.org/themes/custom/mercatus/images/mercatus-social-media.png"],
+    title: "Thiel Fellowship Winners",
+    description: "Semantic search for all Thiel Fellowship winners.",
+    creator: "@whp_wessel based on @nabeelqu",
+    images: ["https://pbs.twimg.com/profile_images/924457928513298438/g8_U3yqC_400x400.jpg"],
   }
 }
 

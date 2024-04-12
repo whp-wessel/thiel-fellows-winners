@@ -9,9 +9,9 @@ import { useState, useEffect, useMemo } from "react"
 import { QrCode } from 'lucide-react';
 
 export const BADGES = [
-    'Progress studies', 'Climate change', 'AI', 'Career development', 'Podcasts', 'Blogs and Substacks', 'Biotech',
+    'Progress studies', 'Climate change', 'AI', 'Career development', 'Crypto', 'Moonshots', 'Biotech',
     'Space', 'Mental health', 'Education', 'Cities', 'Robotics', 'Economics', 'Virtual reality',
-    'Startups', 'Venture capital'
+    'Academia'
 ]
 
 interface SearchBarProps {
@@ -40,10 +40,10 @@ export default function SearchBar({ setLoadingTrue }: SearchBarProps) {
 
     return (
         <>
-            <h2 className="font-semibold mb-2">Semantic search over every Emergent Ventures winner</h2>
+            <h2 className="font-semibold mb-2">Semantic search over every Thiel Fellowship winner</h2>
             <p className="mb-4 text-sm">
-                <a className="underline" href="https://www.mercatus.org/emergent-ventures">Emergent Ventures</a> is a fellowship and grant program founded by <a className="underline" href="https://en.wikipedia.org/wiki/Tyler_Cowen">Tyler Cowen</a>, economist and author of the blog Marginal Revolution,
-                from the Mercatus Center at GMU. It funds moonshots and highly ambitious ideas to improve society.
+                <a className="underline" href="https://thielfellowship.org/">Thiel Fellowship</a> is a fellowship and grant program founded by <a className="underline" href="https://en.wikipedia.org/wiki/Peter_Thiel">Peter Thiel</a>, co-founder of PayPal, investor at Founders Fund and author of the book Zero to One.
+                It supports ambitious individuals to drop out and pursue foundational work.
             </p>
             <p className="mb-4 text-sm">
                 This site collects all winners in one place. You can also find a CSV by clicking the Github link on the top right.
