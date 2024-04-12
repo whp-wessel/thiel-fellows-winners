@@ -23,7 +23,7 @@ export default function LoadingSkeleton() {
                 </Link>
                 </div>
             </div>
-            <div className="bg-[#A020F0] p-4 rounded-lg mb-6 text-black">
+            <div className="bg-[#800080] p-4 rounded-lg mb-6 text-black">
                 <h2 className="font-semibold mb-2">Semantic search over every Thiel Fellowship winner</h2>
                 <p className="mb-4 text-sm">
                     This site uses semantic similarity to search all Thiel Fellowship grantees. This search bar doesn&lsquo;t need you to get the keywords exactly right, only close enough, to find them.
