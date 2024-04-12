@@ -5,7 +5,7 @@ import { ColumnDef } from "@tanstack/react-table"
 export type Winner = {
     id: number;
     name: string;
-    batch: string;
+    class: string;
     date_announced: string;
     link: string | null;
     description: string | null;
@@ -32,8 +32,8 @@ export const columns: ColumnDef<Winner>[] = [
         header: "Name",
     },
     {
-        accessorKey: "batch",
-        header: "Cohort",
+        accessorKey: "class",
+        header: "Class",
     },
     {
         accessorKey: "link",
