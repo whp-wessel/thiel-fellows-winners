@@ -9,9 +9,8 @@ import { useState, useEffect, useMemo } from "react"
 import { QrCode } from 'lucide-react';
 
 export const BADGES = [
-    'Progress studies', 'Climate change', 'AI', 'Career development', 'Crypto', 'Moonshots', 'Biotech',
-    'Space', 'Mental health', 'Education', 'Cities', 'Robotics', 'Economics', 'Virtual reality',
-    'Academia'
+    'Robotics', 'Climate change', 'AI', 'Career development', 'Crypto', 'Moonshots', 'Biotech',
+    'Space', 'Mental health', 'Education', 'Cities', 'Academia', 'Economics', 'Virtual reality'
 ]
 
 interface SearchBarProps {

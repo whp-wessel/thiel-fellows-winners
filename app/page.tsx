@@ -25,7 +25,7 @@ export default async function Page() {
   return (
     <div className="max-w-4xl mx-auto p-6 bg-white">
       <div className="flex justify-between items-center mb-4">
-        <h1 className="text-xl font-bold">Emergent Ventures Winners</h1>
+        <h1 className="text-xl font-bold">Thiel Fellowship Winners</h1>
         <div className="flex space-x-4">
           <Link href="#footer" className="text-blue-600">
             about
