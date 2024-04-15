@@ -101,19 +101,19 @@ function customSort(a: any, b: any) {
                     <Select
                         onValueChange={(value) => {
                             if (value === "CLEAR_SELECTION") {
-                                table.getColumn("batch")?.setFilterValue("");
+                                table.getColumn("class")?.setFilterValue("");
                             } else {
-                                table.getColumn("batch")?.setFilterValue(value);
+                                table.getColumn("class")?.setFilterValue(value);
                             }
                         }}
-                        defaultValue={(table.getColumn("batch")?.getFilterValue() as string) ?? ""}
+                        defaultValue={(table.getColumn("class")?.getFilterValue() as string) ?? ""}
                     >
                         <SelectTrigger>
-                            <SelectValue placeholder="Choose cohort..." />
+                            <SelectValue placeholder="Choose Class..." />
                         </SelectTrigger>
                         <SelectContent>
                         <SelectItem key="clear_option" value="CLEAR_SELECTION">
-                            All cohorts
+                            All Classes
                         </SelectItem>
                         {batchOptions.sort(customSort).map((option) => (
                             <SelectItem key={option} value={option}>{option}</SelectItem>
