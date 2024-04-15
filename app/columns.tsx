@@ -5,7 +5,7 @@ import { ColumnDef } from "@tanstack/react-table"
 export type Winner = {
     id: number;
     name: string;
-    class: string;
+    batch: string;
     date_announced: string;
     link: string | null;
     description: string | null;
