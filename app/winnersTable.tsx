@@ -47,11 +47,11 @@ export default function WinnersTable<TData, TValue>({
         },
     })
 
-    const getBatchOptions = () => {
+    const getclassOptions = () => {
         return Array.from(new Set(data.map((winner: any) => winner.class)));
     };
     
-    const batchOptions = getBatchOptions();
+    const classOptions = classOptions();
     const pathname = usePathname();
     const handleClearSearch = () => {
         location.replace(`${pathname}?query=`);
@@ -115,7 +115,7 @@ function customSort(a: any, b: any) {
                         <SelectItem key="clear_option" value="CLEAR_SELECTION">
                             All Classes
                         </SelectItem>
-                        {batchOptions.sort(customSort).map((option) => (
+                        {classOptions.sort(customSort).map((option) => (
                             <SelectItem key={option} value={option}>{option}</SelectItem>
                         ))}
                         </SelectContent>

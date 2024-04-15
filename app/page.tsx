@@ -27,7 +27,7 @@ export default async function Page() {
       <div className="flex justify-between items-center mb-4">
         <h1 className="text-xl font-bold">Thiel Fellowship Winners</h1>
         <div className="flex space-x-4">
-          <Link href="#footer" className="text-blue-600">
+          <Link href="#footer" className="text-black">
             about
           </Link>
           <Link className="text-black" href="https://github.com/nqureshi/ev-winners">
