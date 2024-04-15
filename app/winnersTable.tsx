@@ -47,11 +47,11 @@ export default function WinnersTable<TData, TValue>({
         },
     })
 
-    const getclassOptions = () => {
-        return Array.from(new Set(data.map((winner: any) => winner.class)));
+    const getBatchOptions = () => {
+        return Array.from(new Set(data.map((winner: any) => winner.batch)));
     };
     
-    const classOptions = classOptions();
+    const batchOptions = getBatchOptions();
     const pathname = usePathname();
     const handleClearSearch = () => {
         location.replace(`${pathname}?query=`);
@@ -101,21 +101,21 @@ function customSort(a: any, b: any) {
                     <Select
                         onValueChange={(value) => {
                             if (value === "CLEAR_SELECTION") {
-                                table.getColumn("class")?.setFilterValue("");
+                                table.getColumn("batch")?.setFilterValue("");
                             } else {
-                                table.getColumn("class")?.setFilterValue(value);
+                                table.getColumn("batch")?.setFilterValue(value);
                             }
                         }}
-                        defaultValue={(table.getColumn("class")?.getFilterValue() as string) ?? ""}
+                        defaultValue={(table.getColumn("batch")?.getFilterValue() as string) ?? ""}
                     >
                         <SelectTrigger>
-                            <SelectValue placeholder="Choose Class..." />
+                            <SelectValue placeholder="Choose class..." />
                         </SelectTrigger>
                         <SelectContent>
                         <SelectItem key="clear_option" value="CLEAR_SELECTION">
                             All Classes
                         </SelectItem>
-                        {classOptions.sort(customSort).map((option) => (
+                        {batchOptions.sort(customSort).map((option) => (
                             <SelectItem key={option} value={option}>{option}</SelectItem>
                         ))}
                         </SelectContent>
