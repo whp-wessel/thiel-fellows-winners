@@ -74,7 +74,7 @@ export default function SearchBar({ setLoadingTrue }: SearchBarProps) {
                         value={searchTerm}
                         onChange={(event) => setSearchTerm(event.target.value)}
                     />
-                    <Button type="submit">Search</Button>
+                    <Button type="submit" className="bg-white text-black">Search</Button>
                 </form>
             </div>
         </>
