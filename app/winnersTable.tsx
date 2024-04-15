@@ -48,7 +48,7 @@ export default function WinnersTable<TData, TValue>({
     })
 
     const getBatchOptions = () => {
-        return Array.from(new Set(data.map((winner: any) => winner.batch)));
+        return Array.from(new Set(data.map((winner: any) => winner.class)));
     };
     
     const batchOptions = getBatchOptions();
