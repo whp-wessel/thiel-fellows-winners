@@ -32,7 +32,7 @@ export const columns: ColumnDef<Winner>[] = [
         header: "Name",
     },
     {
-        accessorKey: "class",
+        accessorKey: "batch",
         header: "Class",
     },
     {
