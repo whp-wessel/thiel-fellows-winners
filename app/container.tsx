@@ -61,7 +61,7 @@ export default function Container({ data }: any) {
 
     return(
         <>
-            <div className="bg-[#ff0000] p-4 rounded-lg mb-6 text-white">
+            <div className="bg-[#151515] p-4 rounded-lg mb-6 text-white">
                 <SearchBar setLoadingTrue={setLoadingTrue} />
             </div>
             {loading && 
