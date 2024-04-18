@@ -1,32 +1,3 @@
-"use client"
-
-import { TableHeader, TableCell, TableRow, TableBody, Table, TableHead } from "@/components/ui/table"
-import {
-    ColumnDef,
-    flexRender,
-    getCoreRowModel,
-    useReactTable,
-    ColumnFiltersState,
-    getFilteredRowModel,
-} from "@tanstack/react-table"
-import {
-    Select,
-    SelectContent,
-    SelectItem,
-    SelectTrigger,
-    SelectValue,
-} from "@/components/ui/select"
-import { Input } from "@/components/ui/input"
-import { useState } from "react"
-import { usePathname } from "next/navigation"
-
-interface WinnersTableProps<TData, TValue> {
-    columns: ColumnDef<TData, TValue>[]
-    data: TData[]
-    query: string
-}
-
-
 export default function WinnersTable<TData, TValue>({
     columns,
     data,
@@ -34,7 +5,7 @@ export default function WinnersTable<TData, TValue>({
 }: WinnersTableProps<TData, TValue>) {
     const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>(
         []
-    )
+    );
 
     const table = useReactTable({
         data,
@@ -45,44 +16,15 @@ export default function WinnersTable<TData, TValue>({
         state: {
             columnFilters,
         },
-    })
+    });
 
-    const getBatchOptions = () => {
-        return Array.from(new Set(data.map((winner: any) => winner.batch)));
-    };
-    
-    const batchOptions = getBatchOptions();
+    // Simplified to only include batches 1 to 13
+    const batchOptions = Array.from({ length: 13 }, (_, i) => (i + 1).toString());
+
     const pathname = usePathname();
     const handleClearSearch = () => {
         location.replace(`${pathname}?query=`);
     };
-
-// Helper function to check if a string is numeric
-function isNumeric(str: any) {
-    return !isNaN(str) && !isNaN(parseFloat(str));
-}
-
-// For sorting cohorts
-function customSort(a: any, b: any) {
-    const isANumeric = isNumeric(a);
-    const isBNumeric = isNumeric(b);
-
-    if (isANumeric && isBNumeric) {
-        return parseInt(a) - parseInt(b);
-    }
-
-    else if (isANumeric) {
-        return -1;
-    }
-
-    else if (isBNumeric) {
-        return 1;
-    }
-
-    else {
-        return a.localeCompare(b);
-    }
-}
 
     return (
         <>
@@ -100,23 +42,16 @@ function customSort(a: any, b: any) {
                 <div className="mb-4 w-1/4 mr-8">
                     <Select
                         onValueChange={(value) => {
-                            if (value === "CLEAR_SELECTION") {
-                                table.getColumn("batch")?.setFilterValue("");
-                            } else {
-                                table.getColumn("batch")?.setFilterValue(value);
-                            }
+                            table.getColumn("batch")?.setFilterValue(value);
                         }}
                         defaultValue={(table.getColumn("batch")?.getFilterValue() as string) ?? ""}
                     >
                         <SelectTrigger>
-                            <SelectValue placeholder="Choose cohort..." />
+                            <SelectValue placeholder="Choose class..." />
                         </SelectTrigger>
                         <SelectContent>
-                        <SelectItem key="clear_option" value="CLEAR_SELECTION">
-                            All cohorts
-                        </SelectItem>
-                        {batchOptions.sort(customSort).map((option) => (
-                            <SelectItem key={option} value={option}>{option}</SelectItem>
+                        {batchOptions.map((option) => (
+                            <SelectItem key={option} value={option}>{`Class ${option}`}</SelectItem>
                         ))}
                         </SelectContent>
                     </Select>
@@ -137,18 +72,16 @@ function customSort(a: any, b: any) {
                     <TableHeader>
                         {table.getHeaderGroups().map((headerGroup) => (
                             <TableRow key={headerGroup.id}>
-                                {headerGroup.headers.map((header) => {
-                                    return (
-                                        <TableHead key={header.id}>
-                                            {header.isPlaceholder
-                                                ? null
-                                                : flexRender(
-                                                    header.column.columnDef.header,
-                                                    header.getContext()
-                                                )}
-                                        </TableHead>
-                                    )
-                                })}
+                                {headerGroup.headers.map((header) => (
+                                    <TableHead key={header.id}>
+                                        {header.isPlaceholder
+                                            ? null
+                                            : flexRender(
+                                                header.column.columnDef.header,
+                                                header.getContext()
+                                            )}
+                                    </TableHead>
+                                ))}
                             </TableRow>
                         ))}
                     </TableHeader>
@@ -177,5 +110,5 @@ function customSort(a: any, b: any) {
                 </Table>
             </div>
         </>
-    )
+    );
 }
