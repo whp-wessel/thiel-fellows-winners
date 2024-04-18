@@ -10,9 +10,9 @@ export const metadata: Metadata = {
   description: 'Semantic search for all Thiel Fellowship winners.',
   twitter: {
     card: "summary_large_image",
-    title: "Thiel Fellowship Winners",
+    title: "Thiel Fellowship Winners 🚀",
     description: "Semantic search for all Thiel Fellowship winners.",
-    creator: "@whp_wessel based on @nabeelqu",
+    creator: "@whp_wessel based on @nabeelqu & @thesephist",
     images: ["https://pbs.twimg.com/profile_images/924457928513298438/g8_U3yqC_400x400.jpg"],
   }
 }
