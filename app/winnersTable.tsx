@@ -76,42 +76,47 @@ export default function WinnersTable<TData, TValue>({
                         {/* ... table header rendering */}
                     </TableHeader>
                     <TableBody>
-                        {table.getRowModel().rows?.length ? (
-                            table.getRowModel().rows.map((row) => (
-                                <TableRow key={row.id} data-state={row.getIsSelected() && "selected"}>
-                                    {row.getVisibleCells().map((cell) => {
-                                        // Check if this is the description cell
-                                        if (cell.column.id === 'description') {
-                                            const isExpanded = expandedRows.has(row.id);
-                                            return (
-                                                <TableCell key={cell.id}>
-                                                    <div className={`description ${isExpanded ? 'expanded' : ''}`}>
-                                                        {isExpanded ? cell.value : `${cell.value.substring(0, 100)}...`}
-                                                        <span
-                                                            className={`read-more ${isExpanded ? 'hidden' : ''}`}
-                                                            onClick={() => toggleRowExpansion(row.id)}
-                                                        >
-                                                            Read more
-                                                        </span>
-                                                    </div>
-                                                </TableCell>
-                                            );
-                                        }
-                                        return (
-                                            <TableCell key={cell.id}>
-                                                {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                                            </TableCell>
-                                        );
-                                    })}
-                                </TableRow>
-                            ))
-                        ) : (
-                            <TableRow>
-                                <TableCell colSpan={columns.length} className="h-24 text-center">
-                                    No results.
+                    <TableBody>
+                    {table.getRowModel().rows?.length ? (
+                        table.getRowModel().rows.map((row) => (
+                        <TableRow
+                            key={row.id}
+                            data-state={row.getIsSelected() && "selected"}
+                        >
+                            {row.getVisibleCells().map((cell) => {
+                            // Use cell.getValue() to access the cell's value
+                            const cellValue = cell.getValue();
+                            if (cell.column.id === 'description') {
+                                const isExpanded = expandedRows.has(row.id);
+                                return (
+                                <TableCell key={cell.id}>
+                                    <div className={`description ${isExpanded ? 'expanded' : ''}`}>
+                                    {isExpanded ? cellValue : `${String(cellValue).substring(0, 100)}...`}
+                                    <span
+                                        className={`read-more ${isExpanded ? 'hidden' : ''}`}
+                                        onClick={() => toggleRowExpansion(row.id)}
+                                    >
+                                        Read more
+                                    </span>
+                                    </div>
                                 </TableCell>
-                            </TableRow>
-                        )}
+                                );
+                            }
+                            return (
+                                <TableCell key={cell.id}>
+                                {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                                </TableCell>
+                            );
+                            })}
+                        </TableRow>
+                        ))
+                    ) : (
+                        <TableRow>
+                        <TableCell colSpan={columns.length} className="h-24 text-center">
+                            No results.
+                        </TableCell>
+                        </TableRow>
+                    )}
                     </TableBody>
                 </Table>
             </div>
