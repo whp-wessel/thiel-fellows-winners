@@ -1977,7 +1977,7 @@
     {
         "ID": 6,
         "name": "Jeffrey Lim",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "Jeffrey Lim wants to increase the amount of voluntary exchange and cooperation in the world by revamping some of our core economic and social institutions. He believes it\u2019s time the means of exchange caught up with the Information Age. Once he stops out of MIT, Jeffrey plans on using his fellowship to create technologies that will help people self-organize to solve social problems. He\u2019s particularly interested in helping people protect the wealth they create from the harmful effects of inflation.",
         "type": "Economics & Finance",
@@ -2372,7 +2372,7 @@
     {
         "ID": 7,
         "name": "Faheem Zaman",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "Faheem Zaman has shot the moon on nearly every SAT test he\u2019s ever taken: 5580 points across 5 tests. He wants to decentralize banking in the developing world with a mobile payment system. Because savings are difficult in poor countries\u2014including in some regions of South Asia where many have to hoard and protect cash\u2014Faheem believes mobile financial services will help bring prosperity to these areas. Before he introduces his technology to the developing world, Faheem\u2019s initial plan is to gain a foothold in the U.S. market for mobile financial services.",
         "type": "Economics & Finance",
@@ -2767,7 +2767,7 @@
     {
         "ID": 8,
         "name": "Nick Cammarata and David Merfield",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "Nick Cammarata and David Merfield are working on OPEN, a project that aims to flip the industrial-scale classroom experience. OPEN is a tool used by teachers to create and share online lessons designed to be viewed at home by their own students, leaving class time free for more engaging activities. With a decade of programming experience, Nick has worked for Microsoft, Stanford, and Mozilla and is an active contributor to several open-source projects. David has designed web interfaces used by millions of people around the world. He has lived and been educated in England, Singapore, France, and the USA.",
         "type": "Education",
@@ -3162,7 +3162,7 @@
     {
         "ID": 9,
         "name": "Andrew Hsu",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "Andrew Hsu started doing research in a pathology lab when he was 10. By the time he was 12, he had matriculated at the University of Washington. Soon after, he graduated with honors degrees in neurobiology, biochemistry, and chemistry. He was a 19-year-old 4th-year neuroscience Ph.D. candidate at Stanford University when he left early this year to pursue his start-up, Airy Labs.",
         "type": "Education",
@@ -3557,7 +3557,7 @@
     {
         "ID": 10,
         "name": "John Marbach",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "John Marbach has years of experience working as an Internet marketer in customer development\u2014he founded a vacation rental portal as a high school freshman\u2014and he blogs frequently about emerging technologies. Now, with his start-up Ingenic, he wants to leverage web-based videos and mobile apps to bring the classroom into the twenty-first century.",
         "type": "Education",
@@ -3952,7 +3952,7 @@
     {
         "ID": 11,
         "name": "Tom Currier",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "Tom Currier developed a deep obsession for entrepreneurship, cost reductions, and renewable energy after starting his first business when nine years old. To achieve grid parity, Currier believes that the solar industry needs a fundamental balance of systems breakthrough. He co-founded Black Swan Solar two years ago to commercialize an invention that enables dual-axis photovoltaic module tracking.",
         "type": "Energy",
@@ -4347,7 +4347,7 @@
     {
         "ID": 12,
         "name": "Jim Danielson",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "Jim Danielson is working on building a more powerful and efficient motor for electric vehicles. He has already electrified a Porsche 924S, including power electronics of his own design. He is currently co-launching Makt Systems LLC, a start-up to commercialize his research and design. Before becoming a Fellow, Jim co-founded the Electric Vehicle Club at Purdue and was president of Purdue Innovations, the university\u2019s entrepreneurship club.",
         "type": "Energy",
@@ -4742,7 +4742,7 @@
     {
         "ID": 13,
         "name": "Eden Full",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "Eden Full is the 19-year-old Canadian founder of Roseicollis Technologies, a solar energy start-up that deploys her patent-pending inventions in established and emerging markets. Currently electrifying two villages of 1000 citizens in Kenya, Eden\u2019s SunSaluter is a solar panel rotating system that tracks the sun to optimize energy collection by up to 40 percent for only $10. She began developing her social enterprise when she was 15.",
         "type": "Energy",
@@ -5137,7 +5137,7 @@
     {
         "ID": 14,
         "name": "Sujay Tyle",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "Sujay Tyle is one of the youngest students at Harvard and is passionate about hacking cellulose to create cheap biofuels. He first worked in a lab when he was 11, interned at Dupont as a teenager, and won the grand prize at the 2009 International Sustainable World Energy Olympiad in Houston. With his older brother, Sheel, he also runs ReSight, Inc., a 501(c)(3) non-profit dedicated to helping the vision-impaired around the world.",
         "type": "Energy",
@@ -5532,7 +5532,7 @@
     {
         "ID": 15,
         "name": "James Proud",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "James Proud taught himself programming at the age of 9. In his teens, he built products for companies such as Coca-Cola and Universal Music, while juggling his studies during the day. Upon graduating from the British equivalent of high school, James decided not to enroll in university and instead founded GigLocater.com, a start-up that aims to help music lovers discover more live shows.",
         "type": "Information Technology",
@@ -5927,7 +5927,7 @@
     {
         "ID": 16,
         "name": "Christopher Rueth",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "Christopher Rueth thinks access to the entire Internet is a basic human right. When he was in high school, administrators put in place draconian Internet restrictions and also started logging all student emails. Upset by the school\u2019s intrusion, Chris created a website that allowed students in his district to bypass this snooping. Now Chris wants to help emancipate information around the world.",
         "type": "Information Technology",
@@ -6322,7 +6322,7 @@
     {
         "ID": 17,
         "name": "Ben Yu",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "Ben Yu had just returned from climbing Mount Kilimanjaro when he interviewed with the Thiel Foundation. He was about to climb another mountain in China when he learned he had won. His next challenge is to build an e-commerce start-up that will revolutionize price comparison on the web. Before climbing Kilimanjaro and taking on the current leaders in comparison shopping, Ben was a freshman at Harvard.",
         "type": "Information Technology",
@@ -6717,7 +6717,7 @@
     {
         "ID": 18,
         "name": "Sebastien Zany",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "Sebastien Zany is pursuing a program to unify computation in a cohesive and elegant framework based around Haskell, with the goal of finally realizing the potential of computers and the Internet to enable people to work with information fluidly and creatively, especially on mobile devices.",
         "type": "Information Technology",
@@ -7112,7 +7112,7 @@
     {
         "ID": 19,
         "name": "Gary Kurek",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "Gary Kurek has been developing mobility aids for physically-disabled citizens for the last four years. Seeing his grandmother weakened by cancer led Gary to invent a walker-wheelchair hybrid that can provide power to assist its user according to how strong she feels at any moment. This flexibility allows users to restore their strength, instead of growing dependent on a substitute. Gary is currently working on expanding the versatility of his mobility aids, making them lighter, foldable, and capable of navigating any home environment including staircases. Gary hails from Alberta, Canada, and is the 19-year-old founder of GET Mobility Solutions.",
         "type": "Mobility",
@@ -7507,7 +7507,7 @@
     {
         "ID": 20,
         "name": "David (Jiageng) Luan",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "David (Jiageng) Luan plans to do for consumer robotics what the IBM PC did for computing. He came to America when he was 6 years old, began taking college courses at Worcester State in Massachusetts in 3rd grade, and received a certificate in computer science by the time he was 12. As student at Andover and Yale, he has been involved in robotics research for five years and now wants to create home robots that can handle an extensible array of low- to mid-level cognitive tasks in addition to physical jobs.",
         "type": "Robotics",
@@ -7902,7 +7902,7 @@
     {
         "ID": 21,
         "name": "John Burnham",
-        "batch": 1,
+        "batch": "1",
         "link": "https://www.businesswire.com/news/home/20110524007427/en/Peter-Thiel-Announces-Inaugural-Class-of-20-Under-20-Thiel-Fellows",
         "description": "John Burnham believes that the search for new resources has driven exploration, expansion, and innovation\u2014from the discovery of the Americas to the California Gold Rush. Likewise, he believes the key to colonizing space is to make it possible to extract valuable minerals from asteroids, comets, and other planetary bodies. John plans on using his fellowship to develop space industry technologies to solve the problem of extraterrestrial resource extraction.",
         "type": "Space",
@@ -8297,7 +8297,7 @@
     {
         "ID": 22,
         "name": "Clay Allsopp (20, Raleigh, NC)",
-        "batch": 2,
+        "batch": "2",
         "link": "https://www.businesswire.com/news/home/20120612006972/en/Peter-Thiel-Announces-2012-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Clay Allsopp (20, Raleigh, NC) thinks people should be able to forget about technology and simply focus on being creative. His start-up, Apptory, helps individuals and businesses create and distribute content for touch-screen devices, using an intuitive, easy-to-understand interface.",
         "type": " ",
@@ -9877,7 +9877,7 @@
     {
         "ID": 26,
         "name": "Spencer Hewett (20, Bryan Mawr, PA)",
-        "batch": 2,
+        "batch": "2",
         "link": "https://www.businesswire.com/news/home/20120612006972/en/Peter-Thiel-Announces-2012-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Spencer Hewett (20, Bryan Mawr, PA) has an insatiable passion for inventing that extends far beyond the confines of one particular industry. As a Thiel fellow, he will focus on No-Q, a fusion of radio-frequency identification (RFID) and mobile payment technology that will eliminate both checkout lines and shoplifting.",
         "type": " ",
@@ -10272,7 +10272,7 @@
     {
         "ID": 27,
         "name": "Yoonseo Kang (18, Mississauga, ON, Canada)",
-        "batch": 2,
+        "batch": "2",
         "link": "https://www.businesswire.com/news/home/20120612006972/en/Peter-Thiel-Announces-2012-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Yoonseo Kang (18, Mississauga, ON, Canada) recognizes that society's potential for innovation and abundance can only be achieved if knowledge and the factors of production are accessible for everyone. With that in mind, Yoonseo sees open-source hardware as the key for enabling communities around the world to vastly increase their productive potential and together engage in strategic economic collaboration. To that end, he is working with Open Source Ecology to develop the Global Village Construction Set, the 50 industrial machines that it takes to build a civilization with modern comforts.",
         "type": " ",
@@ -10667,7 +10667,7 @@
     {
         "ID": 28,
         "name": "Jimmy Koppel (20, St. Louis, MO)",
-        "batch": 2,
+        "batch": "2",
         "link": "https://www.businesswire.com/news/home/20120612006972/en/Peter-Thiel-Announces-2012-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Jimmy Koppel (20, St. Louis, MO) has a passion for software engineering \u2013 and a plan to make it much more efficient. Modifying software today often involves hundreds of thousands of small, similar adjustments that require a great deal of time and money. James will fix that problem by developing new tools to automate the process.",
         "type": " ",
@@ -11062,7 +11062,7 @@
     {
         "ID": 29,
         "name": "Ryan Lelek (19, Schererville, IN)",
-        "batch": 2,
+        "batch": "2",
         "link": "https://www.businesswire.com/news/home/20120612006972/en/Peter-Thiel-Announces-2012-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Ryan Lelek (19, Schererville, IN) developed a passion for entrepreneurship at the age of 15, when he established his first \u201cinstant streaming\u201d start-up. Now he\u2019s dedicated to disrupting the computer industry, using new advances in hardware, software, and network technology. As a Thiel Fellow, he\u2019ll continue to change the world by creating simple technology tools that empower people.",
         "type": " ",
@@ -11457,7 +11457,7 @@
     {
         "ID": 30,
         "name": "Ritik Malhotra (19, San Jose, CA)",
-        "batch": 2,
+        "batch": "2",
         "link": "https://www.businesswire.com/news/home/20120612006972/en/Peter-Thiel-Announces-2012-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Ritik Malhotra (19, San Jose, CA) Ritik began programming at age 8; started a popular web forum at the age of 12 that grew to over 32,000 members; and ran a web hosting and software consultancy business at the age of 13, garnering over a 600x return on his initial investment. Now he wants to provide a streamlined way of discovering, sharing, and distributing content over Facebook, Twitter, and other social media services. As a Thiel Fellow, he'll first work to build a service that allows users to share interesting media, scraped from all around the web, focusing primarily on user growth in order to build a thriving community.",
         "type": " ",
@@ -11852,7 +11852,7 @@
     {
         "ID": 31,
         "name": "Chris Olah (19, Toronto, ON, Canada) ",
-        "batch": 2,
+        "batch": "2",
         "link": "https://www.businesswire.com/news/home/20120612006972/en/Peter-Thiel-Announces-2012-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Chris Olah (19, Toronto, ON, Canada) wants to use 3D printing to reduce the scope of scarcity. His goal: empower anyone with a 3D printer to make educational aids, basic scientific equipment, and tools that improve their quality of life. He is currently working on a project called ImplicitCAD, which is a math-based attempt to reinvent computer-aided design and make it more affordable.",
         "type": " ",
@@ -12247,7 +12247,7 @@
     {
         "ID": 32,
         "name": "Semon Rezchikov (18, Hillsborough, NJ)",
-        "batch": 2,
+        "batch": "2",
         "link": "https://www.businesswire.com/news/home/20120612006972/en/Peter-Thiel-Announces-2012-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Semon Rezchikov (18, Hillsborough, NJ) is eager to explore how synthetic biology, nanotechnology, and social network dynamics intersect. As a Thiel Fellow, he wants to develop more flexible bioautomation technologies to improve the design cycle speed, and then use those technologies to create a library of truly reliable parts \u2013 making synthetic biology more like engineering and less like science.",
         "type": " ",
@@ -12642,7 +12642,7 @@
     {
         "ID": 33,
         "name": "Omar Rizwan (18, East Hanover, NJ)",
-        "batch": 2,
+        "batch": "2",
         "link": "https://www.businesswire.com/news/home/20120612006972/en/Peter-Thiel-Announces-2012-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Omar Rizwan (18, East Hanover, NJ) wants to change the world through the control and analysis of information. Specifically, he plans to speed up progress in the field of artificial intelligence by working on the analysis of big data sets. He will aggregate large sets of data from many different Internet sources and use them to tease out trends and draw conclusions.",
         "type": " ",
@@ -13037,7 +13037,7 @@
     {
         "ID": 34,
         "name": "Tara Seshan (19, New Fairfield, CT)",
-        "batch": 2,
+        "batch": "2",
         "link": "https://www.businesswire.com/news/home/20120612006972/en/Peter-Thiel-Announces-2012-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Tara Seshan (19, New Fairfield, CT) is dedicated to improving public health worldwide, using technology, simple solutions, and community-based change. To that end, she is developing a tool that influences analysis of data, monitoring and evaluation, and public health decision making. As a Thiel Fellow, Tara will explore developing tools that enhance public health programs that can be implemented in low-resource settings.",
         "type": " ",
@@ -13432,7 +13432,7 @@
     {
         "ID": 35,
         "name": "Noor Siddiqui (17, Clifton, VA)",
-        "batch": 2,
+        "batch": "2",
         "link": "https://www.businesswire.com/news/home/20120612006972/en/Peter-Thiel-Announces-2012-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Noor Siddiqui (17, Clifton, VA) is inspired to galvanize people for the good of others. As a Thiel Fellow, she will work to give students across the globe access to upward mobility \u2013 and industries access to an untapped work force \u2013 with the goal of mobilizing one billion people in the next decade.",
         "type": " ",
@@ -13827,7 +13827,7 @@
     {
         "ID": 36,
         "name": "Charlie Stigler (19, Pacific Palisades, CA)",
-        "batch": 2,
+        "batch": "2",
         "link": "https://www.businesswire.com/news/home/20120612006972/en/Peter-Thiel-Announces-2012-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Charlie Stigler (19, Pacific Palisades, CA) has years of experience as an entrepreneur and engineer, having written the popular open-source study application, SelfControl, and founded two Web start-ups. Now he\u2019s working on Zaption, an application that improves the usual workflow for educators and collaborators by allowing video to be integrated into interactive Web experiences and studies. He believes this technology can help solve fundamental problems, starting with that of the U.S. education system.",
         "type": " ",
@@ -14222,7 +14222,7 @@
     {
         "ID": 37,
         "name": "Ilya Vakhutinsky (20, Fair Lawn, NJ)",
-        "batch": 2,
+        "batch": "2",
         "link": "https://www.businesswire.com/news/home/20120612006972/en/Peter-Thiel-Announces-2012-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Ilya Vakhutinsky (20, Fair Lawn, NJ) wants to revolutionize the way the technology and health care communities work together. He is working to create a more open and transparent health care system, drastically lowering the cost of care and empowering patients to make better decisions.",
         "type": " ",
@@ -14617,7 +14617,7 @@
     {
         "ID": 38,
         "name": "Taylor Wilson (18, Texarkana, AR)",
-        "batch": 2,
+        "batch": "2",
         "link": "https://www.businesswire.com/news/home/20120612006972/en/Peter-Thiel-Announces-2012-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Taylor Wilson (18, Texarkana, AR) became the youngest person in history to create nuclear fusion. Since then, he has produced the lowest-cost and lowest-dose active interrogation system for the detection of enriched uranium ever developed. As a Thiel Fellow, Taylor will focus on both counter-terrorism and the production of medical isotopes for use in the diagnosis and treatment of cancer.",
         "type": " ",
@@ -15012,7 +15012,7 @@
     {
         "ID": 39,
         "name": "Connor Zwick (18, Waukesha, WI)",
-        "batch": 2,
+        "batch": "2",
         "link": "https://www.businesswire.com/news/home/20120612006972/en/Peter-Thiel-Announces-2012-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Connor Zwick (18, Waukesha, WI) is passionate about education \u2013 which is why he has set out to revolutionize our country\u2019s antiquated system using technology. As a Thiel Fellow, he will focus on Flashcards+, a mobile educational platform with a base of over 1.5 million downloads that allows anyone to learn anything using crowd sourced generated content from a database of more than 400 million flashcards.",
         "type": " ",
@@ -15407,7 +15407,7 @@
     {
         "ID": 40,
         "name": "Andrew Brackin (18, London, United Kingdom)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Andrew Brackin (18, London, United Kingdom) co-founded a marketplace for designers that grew to 100,000 signups. Andrew runs Tomorrow's Web, an event for young technologists with hundreds of attendees and major sponsors. He will be working on Bunchy, a funding platform that allows organizations to raise money from their audience on their social platforms and websites.",
         "type": " ",
@@ -15802,7 +15802,7 @@
     {
         "ID": 41,
         "name": "Austin Russell (18, Newport Beach, CA)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Austin Russell (18, Newport Beach, CA) has a passion for developing innovative optoelectronic technologies for industry. His projects range from high-efficiency far-field wireless power transmission to low-cost early cancer detection systems. As a fellow, Austin will be focusing on 3D depth mapping and projection of interactive holograms through a compact laser-based module.",
         "type": " ",
@@ -16197,7 +16197,7 @@
     {
         "ID": 42,
         "name": "Christopher Walker (20, Chevy Chase, MD)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Christopher Walker (20, Chevy Chase, MD) is a video game designer, programmer, and artist. After leaving college to start a software company, he created a game designed to improve spatial cognition. As a Thiel Fellow, Chris will focus on developing interactive software to teach technical skills like programming, music, and mathematics.",
         "type": " ",
@@ -16592,7 +16592,7 @@
     {
         "ID": 43,
         "name": "Daniel Zulla (19, Regensburg, Germany)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Daniel Zulla (19, Regensburg, Germany) is a software engineer who is about to introduce a secure computing architecture used for servers and desktop computers alike.",
         "type": " ",
@@ -16987,7 +16987,7 @@
     {
         "ID": 44,
         "name": "Darren Lim (19, Singapore)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Darren Lim (19, Singapore) came to love scientific innovation while studying in China, and remains a consumer at heart who is obsessed with cutting-edge gadgets. He is currently working on a startup to improve how we interact with technology.",
         "type": " ",
@@ -17382,7 +17382,7 @@
     {
         "ID": 45,
         "name": "Delian Asparaouhov (19, Salt Lake City, UT)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Delian Asparaouhov (19, Salt Lake City, UT) wants to improve health care. As a Thiel Fellow, he will work on technology to help manage disease and improve patient outcomes.",
         "type": " ",
@@ -17777,7 +17777,7 @@
     {
         "ID": 46,
         "name": "Diwank Singh Tomer (19, Palo Alto, CA)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Diwank Singh Tomer (19, Palo Alto, CA) stopped out of his college in India to work on an online platform for learning to code. Aside from his love of poetry, he is an exceptional hacker and engineer who was awarded the Mozilla WebFWD fellowship for his efforts to improve learning online. He has since moved to the Bay Area to further his efforts and is currently working on a collaborative learning platform.",
         "type": " ",
@@ -18172,7 +18172,7 @@
     {
         "ID": 47,
         "name": "Gary Le (19, East Brunswick, NH)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Gary Le (19, East Brunswick, NH) envisions a safer, cleaner, and more trustable Internet. He is working on a real-time online identity verification system for various applications in e-commerce, online communities, and collaborative consumption businesses.",
         "type": " ",
@@ -18567,7 +18567,7 @@
     {
         "ID": 48,
         "name": "James Schuler (19, Armonk, NY)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "James Schuler (19, Armonk, NY) started his first company when he was 12 and hasn't stopped since. In high school he founded a health care company called Eligible and attended Y-Combinator as one of its youngest entrepreneurs. Recently, James left Eligible in order to focus on a bigger market: politics. As a Thiel Fellow, James will work to improve crowd funding in order to revolutionize the campaign finance market.",
         "type": " ",
@@ -18962,7 +18962,7 @@
     {
         "ID": 49,
         "name": "Kevin Wang (18, Vernon Hills, IL)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Kevin Wang (18, Vernon Hills, IL) began developing games and applications when he was 9. Since then, he has moved into entrepreneurship, applying his highly technical background to solve bigger problems. As a Thiel Fellow, he aims to simplify the world of law and open source software to end the wasteful litigation epidemic.",
         "type": " ",
@@ -19357,7 +19357,7 @@
     {
         "ID": 50,
         "name": "Laura Ball (19, Wauwatosa, WI) ",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Laura Ball (19, Wauwatosa, WI) is researching value in neural systems. She would like to determine how information becomes important, and how important information maintains dominance over other information in order to define our conscious mind-states and behavioral responses.",
         "type": " ",
@@ -19752,7 +19752,7 @@
     {
         "ID": 51,
         "name": "Maddy Maxey (18, San Diego, CA)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Maddy Maxey (18, San Diego, CA) began interning in the fashion industry when she was 16 for companies like Tommy Hilfiger, Donna Ricco, Peter Som, and Nylon Magazine. After founding a popular fashion blog while in France and then winning a scholarship from the CFDA & Teen Vogue for her work, she started a clothing company of her own. As a Thiel Fellow, Maddy will focus on optimizing the clothing patterns and the enterprise software that make our current garment industry inefficient. Her goal is to make domestic production profitable by integrating software, not just hardware technologies, more fully into our manufacturing system.",
         "type": " ",
@@ -20147,7 +20147,7 @@
     {
         "ID": 52,
         "name": "Mark Daniel (19, Nashville, TN)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Mark Daniel (19, Nashville, TN) co-founded social goal achievement site GoalHawk in 2011. Since then, he has been building StatusHawk, a workplace accountability tool that changes the way that companies handle status reports. As a Thiel Fellow, Mark will focus on building this early stage company into a profitable and sustainable business.",
         "type": " ",
@@ -20542,7 +20542,7 @@
     {
         "ID": 53,
         "name": "Nelson Zhang (19, Toronto, ON, Canada)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Nelson Zhang (19, Toronto, ON, Canada) has always loved making things. He has been tinkering with electronics since he was 10, and designed, manufactured, and sold several hardware products during high school and college. He is currently working on a desktop fabricator for electronics, aimed at lowering iteration time and costs for hardware companies. He hopes to make the design and production of physical things accessible to everyone.",
         "type": " ",
@@ -20937,7 +20937,7 @@
     {
         "ID": 54,
         "name": "Nick Liow (18, Vancouver, BC, Canada)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Nick Liow (18, Vancouver, BC, Canada) believes everything is a remix and information wants to be free. Now, he's challenging copyright by building ways for creators to get paid for giving their work to the public domain.",
         "type": " ",
@@ -21332,7 +21332,7 @@
     {
         "ID": 55,
         "name": "Riley Drake (18, Baltimore, MD)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Riley Drake (18, Baltimore, MD) has been conducting scientific research since she was 15. She has studied immunology at Johns Hopkins University and infectious disease at Massachusetts General Hospital. During her fellowship she intends to apply physical principles to virology: using biophysics to create broad-spectrum viral therapies.",
         "type": " ",
@@ -21727,7 +21727,7 @@
     {
         "ID": 56,
         "name": "Riley Ennis (19, McLean, VA)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Riley Ennis (19, McLean, VA) founded Immudicon, an early-stage biotechnology company that has developed a novel cancer vaccine platform and telemetric sweat-monitoring device in order to improve diagnosis and treatment. The company was spun out of his research in high school at Georgetown University and the Sheikh Zayed Institute at Children's National Medical Center in Washington. His ultimate goal is to exercise empathy within health care to revolutionize and personalize patient care.",
         "type": " ",
@@ -22122,7 +22122,7 @@
     {
         "ID": 57,
         "name": "Ritesh Agarwal (19, New Delhi, India)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Ritesh Agarwal (19, New Delhi, India) is one of the youngest entrepreneurs from India to raise angel investments. He runs OYO Inns, a chain of affordable, tech-enabled inns, and Oravel, a rising popular alternative to hotels in India. As a Thiel Fellow, Ritesh will use technology to bring affordable and standardized accommodations to emerging economies across the world, starting in India.",
         "type": " ",
@@ -22517,7 +22517,7 @@
     {
         "ID": 58,
         "name": "Thomas Sohmers (17, Hudson, MA)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Thomas Sohmers (17, Hudson, MA) is a technology geek and hardware hacker who has been working at a MIT research lab since he was 13, developing everything from augmented reality eyewear to laser communication systems. Currently, Thomas is working on developing a new computing platform that uses very low powered processors in a cluster to transform the server, cloud, and research computing industries.",
         "type": " ",
@@ -22912,7 +22912,7 @@
     {
         "ID": 59,
         "name": "William LeGate (18, Marietta, GA)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "William LeGate (18, Marietta, GA) is an entrepreneur and computer scientist. He taught himself programming at age 14 from online Stanford lectures and has since created more than a dozen mobile apps which have been downloaded more than 5 million times and are now used by 1 in 16 American teens. During his fellowship, he plans to change the way that we discover apps for things around us.",
         "type": " ",
@@ -23307,7 +23307,7 @@
     {
         "ID": 60,
         "name": "Xinyi Chen (19, Beijing, China)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Xinyi Chen (19, Beijing, China) is passionate about entrepreneurship and technology. She participated in the Tigerlabs accelerator last summer and developed prototypes for her project Helios, which attempts to make telepresence devices accessible to average families.",
         "type": " ",
@@ -23702,7 +23702,7 @@
     {
         "ID": 61,
         "name": "Zach Hamed (20, Holbrook, NY)",
-        "batch": 3,
+        "batch": "3",
         "link": "https://www.businesswire.com/news/home/20130509005377/en/Peter-Thiel-Announces-2013-Class-of-%E2%80%9C20-Under-20%E2%80%9D-Thiel-Fellows",
         "description": "Zach Hamed (20, Holbrook, NY) originally from New York City, was a junior at Harvard studying computer science before joining the Thiel Fellowship. The son of a teacher and a computer programmer, Zach is a first-generation American who hopes to apply his interest in user interface and experience design to K-12 education. As a Thiel Fellow, Zach wants to develop a suite of beautifully-designed tools for K-12 teachers, saving them time, providing them supplemental income, and helping them do what they do best\u2014teach.",
         "type": " ",
@@ -24097,7 +24097,7 @@
     {
         "ID": 62,
         "name": "Shantanu Bala (19, Phoenix, AZ)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Shantanu Bala (19, Phoenix, AZ) is developing a system for using a real-time video and audio feed to convey visual facial expressions and auditory cues using a series of vibrations across a user's skin. His research aims to expand the potential scope of information that can be extracted and conveyed using digital sensors and haptic actuators.",
         "type": " ",
@@ -24492,7 +24492,7 @@
     {
         "ID": 63,
         "name": "Vitalik Buterin (20, Toronto, Canada)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Vitalik Buterin (20, Toronto, Canada) has been captivated by Bitcoin and the crypto-currency space for some time. He is now working full-time on developing Ethereum, a peer-to-peer network that any application can use and access and a mobile and desktop client to allow people to build advanced decentralized applications and use them in a platform that is as convenient as a web browser.",
         "type": " ",
@@ -24887,7 +24887,7 @@
     {
         "ID": 64,
         "name": "Benjamin Englard (18, Miami, FL)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Benjamin Englard (18, Miami, FL) is a computer scientist interested in natural language processing, computer vision, distributed computing, and the synthesis of computer science with other fields. He is working to combine ideas from computer science and psychology with the goal of personalizing technology.",
         "type": " ",
@@ -25282,7 +25282,7 @@
     {
         "ID": 65,
         "name": "Adithya Ganesh (17, Plano, TX)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Adithya Ganesh (17, Plano, TX) is a computer science student on leave from Stanford. He co-invented IntentSense, an intelligent bionic glove for partial hand amputees. He is interested in using machine learning and predictive analytics to personalize bionics and health care in general.",
         "type": " ",
@@ -25677,7 +25677,7 @@
     {
         "ID": 66,
         "name": "Grace Gee (19, Port Lavaca, TX)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Grace Gee (19, Port Lavaca, TX) co-founded her start-up CortexML with a fellow Harvard classmate to make data analysis more intuitive and simple. She was pursuing a joint bachelor's and master's in computer science at Harvard before becoming a Thiel Fellow.",
         "type": " ",
@@ -26072,7 +26072,7 @@
     {
         "ID": 67,
         "name": "Ishaan Gulrajani (19, Philadelphia, PA)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Ishaan Gulrajani (19, Philadelphia, PA) wants to change the way people make software. After leaving MIT, he founded a startup that won an Apple Design Award and received support from Y Combinator.",
         "type": " ",
@@ -26467,7 +26467,7 @@
     {
         "ID": 68,
         "name": "Lucy Guo (19, Pleasanton, CA)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Lucy Guo (19, Pleasanton, CA) is a designer and software engineer who has been creating profitable websites since 6th grade. After building educational software for developing countries, she decided that she wanted to make studying fun for everybody. During her fellowship, Lucy will be working on gamifying education by creating a platform that will allow students to study their schoolwork through multiplayer games.",
         "type": " ",
@@ -26862,7 +26862,7 @@
     {
         "ID": 69,
         "name": "Thomas Hunt (17, Saratoga, CA)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Thomas Hunt (17, Saratoga, CA) wants to cure cancer. He spent three years at the SENS Research Foundation studying Alternative Lengthening of Telomeres (ALT), a mechanism that is suggested to be indirectly responsible for all cancers. He is using automated high-throughput drug screening to find drugs that can reduce ALT activity.",
         "type": " ",
@@ -27257,7 +27257,7 @@
     {
         "ID": 70,
         "name": "Rebecca Jolitz (19, Los Gatos, CA)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Rebecca Jolitz (19, Los Gatos, CA) hopes to revolutionize the satellite development cycle. She is a researcher-entrepreneur with a family background in aerospace and holds degrees in physics and mathematics from UC Berkeley.",
         "type": " ",
@@ -27652,7 +27652,7 @@
     {
         "ID": 71,
         "name": "Alex Koren (19, Bergen County, NJ)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Alex Koren (19, Bergen County, NJ) is working on the new wave of crowd-sourced supercomputing and mobile monetization. He's the co-founder of the start-up Hyv, which has built a platform for globally distributed computing. He envisions a world where users can not only use their devices for entertainment and communication, but also for social progress.",
         "type": " ",
@@ -28047,7 +28047,7 @@
     {
         "ID": 72,
         "name": "Conrad Kramer (17, Philadelphia, PA)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Conrad Kramer (17, Philadelphia, PA) taught himself to program at age 13, and hasn\u2019t stopped since. He is currently working with 2014 Thiel Fellow Ari Weinstein to develop new types of productivity software for mobile devices, including DeskConnect, which allows users to seamlessly push websites, documents, pictures, and everything else to any device at any time.",
         "type": " ",
@@ -28442,7 +28442,7 @@
     {
         "ID": 73,
         "name": "Eliana Lorch (17, San Francisco, CA)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Eliana Lorch (17, San Francisco, CA) struggles to carry out a conversation for more than five minutes before sidetracking into neural nets or math, either to explain to you what she\u2019s been learning or to press you for your insights. She is passionate about exploring the outstanding results that deep learning has recently led to in computer vision and voice recognition.",
         "type": " ",
@@ -28837,7 +28837,7 @@
     {
         "ID": 74,
         "name": "Fouad Matin (18, McLean, VA)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Fouad Matin (18, McLean, VA) wants to drastically accelerate how we learn. He is building software to make learning technical skills more accessible and efficient.",
         "type": " ",
@@ -29232,7 +29232,7 @@
     {
         "ID": 75,
         "name": "M. C. McGrath (20, Boston, MA)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "M. C. McGrath (20, Boston, MA) is a former Boston University student working on Transparency Toolkit, which is open-source software that helps investigative journalists rapidly analyze documents without coding to uncover corruption, civil liberties violations, and human rights abuses.",
         "type": " ",
@@ -29627,7 +29627,7 @@
     {
         "ID": 76,
         "name": "Adam Munich (20, Buffalo, NY)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Adam Munich (20, Buffalo, NY) is an inventor combining his interests in engineering and natural sciences to develop new technologies to mobilize radiography.",
         "type": " ",
@@ -30022,7 +30022,7 @@
     {
         "ID": 77,
         "name": "Catherine Ray (17, Alexandria, VA)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Catherine Ray (17, Alexandria, VA) has a passion for exploring the beauty of mathematics and applying its power to unsolved problems in various fields. She is currently focused on improving closed-loop detector adaptation in neuroprosthetics, computationally and mathematically modeling quasicrystaline patterns, and automating the behavioral classifications of lab-animal vocalizations.",
         "type": " ",
@@ -30417,7 +30417,7 @@
     {
         "ID": 78,
         "name": "Jarred Sumner (18, Lafayette, CA)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Jarred Sumner (18, Lafayette, CA) wants to build tools that lower the barriers to entry for starting new companies. Previously, he built Selfstarter, an open-source DIY crowdfunding site that startups have used to raise $10,000,000.",
         "type": " ",
@@ -30812,7 +30812,7 @@
     {
         "ID": 79,
         "name": "Martin Stoyanov (17, Novi Pazar, Bulgaria)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Martin Stoyanov (17, Novi Pazar, Bulgaria) is developing software aimed to fundamentally change the way people consume email on the go by enhancing the UI of email inboxes to maximize time and efficiency.",
         "type": " ",
@@ -31207,7 +31207,7 @@
     {
         "ID": 80,
         "name": "Kaushik Tiwari (19 New Delhi, India)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Kaushik Tiwari (19 New Delhi, India) is working to improve health care. As a Thiel Fellow, Kaushik hopes to create a technology interface that changes the hospital-patient relationship and solves the problems of transparency and efficiency.",
         "type": " ",
@@ -31602,7 +31602,7 @@
     {
         "ID": 81,
         "name": "Ari Weinstein (19, Philadelphia, PA)",
-        "batch": 4,
+        "batch": "4",
         "link": "https://www.businesswire.com/news/home/20140605005295/en/Peter-Thiel-Announces-2014-Class-of-Thiel-Fellows",
         "description": "Ari Weinstein (19, Philadelphia, PA) is a software jail-breaker with a passion for making great software. He is working with fellow 2014 Thiel Fellow Conrad Kramer on new types of productivity software, including DeskConnect, which allows users to seamlessly push websites, documents, pictures, and everything else to any device at any time.",
         "type": " ",
@@ -31997,7 +31997,7 @@
     {
         "ID": 82,
         "name": "Caroline Beckman (20, Sacramento, CA)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Caroline is co-founder of Nomva, a health food company that makes 100% organic fruit and vegetable snacks powered by immune-boosting and digestion-supporting probiotics. Nomva expects to launch in California retail stores and online nationwide this summer. Caroline is also a founding member and VP of Special Projects at Suja Juice, the nation\u2019s leading organic and cold-pressed juice brand.",
         "type": "Health and Wellness Products",
@@ -32392,7 +32392,7 @@
     {
         "ID": 83,
         "name": "Cathy Tie (18, Toronto, Ontario, Canada)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Cathy is co-founder and CEO of Ranomics, a biotech startup that is improving the accuracy of genetic testing by determining the consequences of all variants in hereditary disease genes before they are seen in patients. Ranomics aims to revolutionize preventative medicine by determining with unparalleled precision whether a person is prone to a hereditary condition as a result of their individual genetic variations.",
         "type": "Genomic Sequencing",
@@ -32787,7 +32787,7 @@
     {
         "ID": 84,
         "name": "George Matus (17, Salt Lake City, UT)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "George is CEO of iDrone, where he designs, builds, and pilots advanced UAV technology. He has been a drone test pilot since age 12, won a global drone competition at age 16, and now at 17, manufactures incredibly capable UAVs for consumer and commercial markets.",
         "type": "Unmanned Aerial Systems",
@@ -33182,7 +33182,7 @@
     {
         "ID": 85,
         "name": "Harry Gandhi (22, Waterloo, Ontario, Canada)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Harry is co-founder and CEO of Medella Health, a startup that is creating a smart contact lens platform for continuous and non-invasive monitoring of health vitals, starting with diabetes management. With this technology, Harry aims to make a reactive healthcare system proactive, so that diseases can be prevented in advance instead of treated only after symptoms appear.",
         "type": "Wearable Medical Technology",
@@ -33577,7 +33577,7 @@
     {
         "ID": 86,
         "name": "Jason Marmon (17, Armonk, NY)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Jason is co-founder and CEO of HomeSwipe, an apartment rental app that makes renting an apartment easy by providing reliable listings and the best mobile search experience on the market.",
         "type": "Real Estate Technology",
@@ -33972,7 +33972,7 @@
     {
         "ID": 87,
         "name": "Jeremy Cai (19, Chicago, IL)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Jeremy is founder and CEO of OnboardIQ, where he is reinventing the way companies build a modern workforce by developing software to streamline and automate interactions with service providers.",
         "type": "Software, Human Resources",
@@ -34367,7 +34367,7 @@
     {
         "ID": 88,
         "name": "Jihad Kawas (17, Beirut, Lebanon)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Jihad is founder and CEO of Saily, a local marketplace that helps neighbors buy, sell, and swap secondhand products quickly and seamlessly from their mobile phones. Saily\u2019s mission is to help build neighborhoods that don\u2019t let anything go to waste.",
         "type": "Sharing Economy",
@@ -34762,7 +34762,7 @@
     {
         "ID": 89,
         "name": "John Backus (21, Great Falls, VA)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "John is co-founder and CEO of BlockScore, where he builds software that helps businesses to verify their customers\u2019 identities, fighting fraud and smoothly complying with regulations.",
         "type": "Software",
@@ -35157,7 +35157,7 @@
     {
         "ID": 90,
         "name": "John Meyer (19, New York, NY)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "John dropped out of New York University to start Fresco News, a startup that builds 21st century newsroom tools. Fresco helps news organizations mobilize the smartphone users who are capturing footage wherever news is breaking.",
         "type": "Media, Crowdsourced News",
@@ -35552,7 +35552,7 @@
     {
         "ID": 91,
         "name": "Kieran O\u2019Reilly (19, Elmont, NY) and Rory O\u2019Reilly (20, Elmont, NY)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Rory and his brother Kieran dropped out of Harvard a year ago to make online communication easier and more fun. Their company GIFTY (formerly Gifyoutube) helps people to express themselves in pictures.",
         "type": "Animated GIFs",
@@ -35947,7 +35947,7 @@
     {
         "ID": 92,
         "name": "Liam Horne (19, Cambridge, Ontario, Canada)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Liam is CTO of PiinPoint, where he builds software that uses demographic, real estate, and traffic data to help retailers decide where to open new locations.",
         "type": "Software, Retail Real Estate",
@@ -36342,7 +36342,7 @@
     {
         "ID": 93,
         "name": "Max Lock (18, Bryn Mawr, PA)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Max is founder and President of Fleet, an easy-to-use freight shipping platform that provides reliable shipments, fair pricing, and an unparalleled customer experience for shippers of any size -- particularly the small- to medium-sized companies traditionally underserved by the global freight industry.",
         "type": "Supply Chain Logistics",
@@ -36737,7 +36737,7 @@
     {
         "ID": 94,
         "name": "Ocean Pleasant (17, New York, NY)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Ocean founded REAL Magazine, a national youth culture publication dedicated to engaging millennials on questions of social change. She is currently developing REAL me, a software application to connect young people with volunteer opportunities based on their unique interests.",
         "type": "Media, Social Good, Technology",
@@ -37132,7 +37132,7 @@
     {
         "ID": 95,
         "name": "Olenka Polak (21, Greenwich, CT)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Olenka is co-founder of myLINGO, a free mobile app that lets you watch Hollywood movies in the theater in another language, using your smartphone and headphones. Advanced audio recognition technology ensures a perfectly synchronized studio-quality dub, eliminating the inconvenience of subtitles.",
         "type": "App-Based Software, Linguistics",
@@ -37527,7 +37527,7 @@
     {
         "ID": 96,
         "name": "Patrick Coughran (21, Monterrey, Mexico)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Patrick is co-founder and CTO of Foxtrot Systems, a logistics software platform that helps distributors execute better last-mile deliveries. Foxtrot uses traffic and weather information, in-house route-optimization algorithms, and machine learning to boost customers\u2019 fleets\u2019 efficiency and delivery success.",
         "type": "Logistics Software",
@@ -37922,7 +37922,7 @@
     {
         "ID": 97,
         "name": "Simon Tian (20, Montreal, Quebec, Canada)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Simon is the founder and CEO of Neptune, which makes mobile hardware that fits on your wrist and helps you to work seamlessly in any environment.",
         "type": "Wearables, Consumer Electronics",
@@ -38317,7 +38317,7 @@
     {
         "ID": 98,
         "name": "Stacey Ferreira (22, Scottsdale, AZ)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Stacey is the co-Author of 2 Billion Under 20: How Millennials Are Breaking Down Age Barriers & Changing the World and CEO of AdMoar, an online marketplace that matches brands with YouTube influencers to facilitate product placement deals. She sold her first company, MySocialCloud, to Reputation.com in 2013.",
         "type": "Technology, Entrepreneurship",
@@ -38712,7 +38712,7 @@
     {
         "ID": 99,
         "name": "Zach Latta (17, El Segundo, CA)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Zach is Executive Director of hackEDU, a national nonprofit that brings coding clubs to high schools nationwide. Students who love music can join band; students who love sports can join an athletic team; but students who want to code have to go home and do it alone. Zach\u2019s goal is to spread the hacker ethos (and programming skills) to every student in the nation.",
         "type": "Education, Nonprofit",
@@ -39107,7 +39107,7 @@
     {
         "ID": 100,
         "name": "Zoli Kahan (19, Austin, TX)",
-        "batch": 5,
+        "batch": "5",
         "link": "https://www.businesswire.com/news/home/20150605005092/en/Thiel-Foundation-Announces-2015-Thiel-Fellows-Expands-Fellowship-Program",
         "description": "Zoli is CTO of Clay.io, a startup that publishes popular games to mobile web platforms. With Clay.io, developers can easily publish their games to more than 5 million users, and users can access hundreds of games instantly on any platform or device.",
         "type": "Mobile Games, Software",
@@ -39502,7 +39502,7 @@
     {
         "ID": 101,
         "name": "Aditya Agarwalla (New Delhi, India)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Aditya is co-founder of Kisan Network, an online marketplace for the $200 billion Indian agricultural ecosystem. Kisan enables farmers to sell their produce directly to institutional buyers using a smartphone, rather than going through the physical marketplace dominated by middlemen.",
         "type": "Agriculture Marketplace",
@@ -39897,7 +39897,7 @@
     {
         "ID": 102,
         "name": "Alex Rodrigues (Calgary, Alberta / Mountain View, CA)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Alex is CEO of Varden Labs, a startup developing self-driving shuttles for private campuses. Varden\u2019s technology has been used to transport thousands of people, more than any other autonomous vehicle company in the US.",
         "type": "Autonomous Vehicles",
@@ -40292,7 +40292,7 @@
     {
         "ID": 103,
         "name": "Anthony Zhang (Calgary, Alberta, Canada / Mountain View, CA)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Anthony is CEO and co-founder of EnvoyNow, a last-mile food delivery service focusing on colleges and universities. Through a workforce of students who live on campus, EnvoyNow makes delivery direct-to-dorm room, direct-to-lecture hall, and direct-to-study nook faster and more accurate than mapping software-based delivery services can achieve.",
         "type": "Local Delivery",
@@ -40687,7 +40687,7 @@
     {
         "ID": 104,
         "name": "Boyan Slat (Delft, The Netherlands)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Boyan founded and runs The Ocean Cleanup, a non-profit organization that develops technologies to rid the world\u2019s oceans of plastic. By leveraging the power of ocean currents to concentrate and extract plastic waste, The Ocean Cleanup is orders of magnitude more efficient than traditional approaches that rely on boats and nets.",
         "type": "Environmental Technology",
@@ -41082,7 +41082,7 @@
     {
         "ID": 105,
         "name": "Brian Truong (Boston, MA)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Brian is CEO and co-founder of HelloToken, a company that enables digital publishers to earn up to 10x more for their content by posing simple market research questions to readers instead of serving ads. In turn, HelloToken has created an engine for real-time contextual research across millions of people.",
         "type": "Enterprise Software",
@@ -41477,7 +41477,7 @@
     {
         "ID": 106,
         "name": "Christian Owens (London)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Christian is the founder and CEO of Paddle.com, which builds infrastructure for software companies to help companies deal with complex issues such as payments, taxes, localization, and analytics.",
         "type": "Software",
@@ -41872,7 +41872,7 @@
     {
         "ID": 107,
         "name": "Cosmo Scharf (Los Angeles, CA)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Cosmo co-founded The Virtual Reality Foundation, a non-profit organization that produces the world\u2019s largest event showcasing virtual reality technology, VRLA Expo, as well as The Proto Awards, the premier celebration for recognizing virtual reality content. He is also the co-founder of Visionary VR, a venture-backed startup building software for creating stories using virtual reality.",
         "type": "Virtual Reality",
@@ -42267,7 +42267,7 @@
     {
         "ID": 108,
         "name": "Eva Shang (Cambridge, MA)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Eva is co-founder of Legalist, a legal analytics and alert platform that helps lawyers keep track of new developments in case law so that they can represent their clients more effectively.",
         "type": "Legal Analytics",
@@ -42662,7 +42662,7 @@
     {
         "ID": 109,
         "name": "Grace Xiao & Raul Jordan (Cambridge, MA)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Grace and Raul are co-founders of Kynplex, a startup that provides communication tools for scientific laboratories. By connecting the fragmented world of scientific research, Kynplex aims to accelerate the pace of discovery.",
         "type": "Communication Software",
@@ -43057,7 +43057,7 @@
     {
         "ID": 110,
         "name": "Henry Hu (Hong Kong / San Francisco)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "A native of Beijing, Henry Hu is CEO and co-founder of Cafe X, which designs, manufactures, and operates automated robotic caf\u00e9s that serve locally roasted coffee in 10 seconds.",
         "type": "Food Technology, Automation",
@@ -43452,7 +43452,7 @@
     {
         "ID": 111,
         "name": "Hunter Rosenblume & Rohith Varanasi (Detroit, MI)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Hunter and Rohith co-founded Lunar Labs, a startup that sells smartphones with no monthly contracts and pay-as-you-go data on a per-app basis starting at just pennies per day. Lunar Labs aims to bring online the 64 million Americans\u2014and then billions more worldwide\u2014that don\u2019t yet own a smartphone.",
         "type": "Telecommunications",
@@ -43847,7 +43847,7 @@
     {
         "ID": 112,
         "name": "Ivonna Dumanyan (Kherson, Ukraine / Durham, NC)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Ivonna is co-founder and CEO of BioMetrix, a wearable platform for injury prediction and prevention. BioMetrix is pushing the limits of connected technology and insight-driven intelligence with a simple, skin-adhered sensor. The system evaluates athlete movement to identify injury risk factors and inform smarter training.",
         "type": "Wearable Performance Technology; Artificial Intelligence",
@@ -44242,7 +44242,7 @@
     {
         "ID": 113,
         "name": "James Sun (Toronto, Canada)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "James is co-founder and CEO of Revlo, a fan engagement platform for the game broadcaster Twitch. Revlo makes it easy for broadcasters to interact with all their fans and monetize them.",
         "type": "Social Gaming",
@@ -44637,7 +44637,7 @@
     {
         "ID": 114,
         "name": "Jesse Leimgruber (San Francisco)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Jesse founded and runs NeoReach, a startup developing influencer marketing technology for Fortune 1000 brands and their agencies. NeoReach is currently used by industry giants such as Wal-Mart, Amazon, and NBC.",
         "type": "Marketing Technology",
@@ -45032,7 +45032,7 @@
     {
         "ID": 115,
         "name": "Joey Krug (Knoxville, IL)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Joey is building the world\u2019s first decentralized prediction market platform. Augur is built on the Ethereum blockchain and allows users to forecast events and be rewarded for predicting them correctly.",
         "type": "Prediction Markets",
@@ -45427,7 +45427,7 @@
     {
         "ID": 116,
         "name": "Joey Levy (New York)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Joey founded Draftpot, a daily fantasy sports platform, from his dorm room in 2014. He is now working on Quizr, a sports betting application that launches in Europe in late 2016.",
         "type": "Sports Gaming",
@@ -45822,7 +45822,7 @@
     {
         "ID": 117,
         "name": "Lexi Smith (Boston)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Lexi is co-founder of Carewell, an intelligent caregiving platform that helps caregivers take care of loved ones with dementia by using wearable devices to learn the smartest ways to provide personalized care.",
         "type": "Health IT",
@@ -46217,7 +46217,7 @@
     {
         "ID": 118,
         "name": "Luke Sophios (San Diego)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Luke is founder and CEO of CourseKey, a software company that allows teachers to leverage the devices that their students are already bringing to class \u2013 laptops, tablets, and smartphones \u2013 to instantly create a more interactive, engaging \u201csmart classroom\u201d.",
         "type": "Education Technology",
@@ -46612,7 +46612,7 @@
     {
         "ID": 119,
         "name": "Matt Arbesfeld (Cambridge, MA)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Matt co-founded AppHub, a company that builds tools that let app developers deploy and update software applications easily and instantly. AppHub\u2019s mission is to empower engineers by eliminating tedious and redundant, time-consuming work.",
         "type": "Developer Tools",
@@ -47007,7 +47007,7 @@
     {
         "ID": 120,
         "name": "Matthew Salsamendi & James Boehm (Seattle, WA)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Matt and James co-founded Beam, an interactive live-streaming platform for gamers. Beam lets viewers of live-streamed video game sessions get involved in the game, influencing gameplay in real time.",
         "type": "Social Gaming",
@@ -47402,7 +47402,7 @@
     {
         "ID": 121,
         "name": "Megan Grassell (Jackson Hole, WY)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Megan founded Yellowberry in high school when she realized that tween girls like her younger sister lacked age-appropriate options when buying their first bras. Three years later, Yellowberry has pioneered a new approach to this market, and has expanded beyond bras to underwear, loungewear, and activewear.",
         "type": "Apparel",
@@ -47797,7 +47797,7 @@
     {
         "ID": 122,
         "name": "Nick Mares (San Francisco)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Nick co-founded Kettle & Fire with his brother to bring to market the world\u2019s first shelf-stable bone broth made from grass-fed, pasture-raised cattle. Their wholesome, slow-simmered bone broth is available at select Whole Foods, Sprouts Farmers Market locations, and several online retailers.",
         "type": "Food",
@@ -48192,7 +48192,7 @@
     {
         "ID": 123,
         "name": "Pamela Valdes Esteva (Mexico City, Mexico)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Pamela is co-founder and CEO of Beek, a social network for millennial book lovers. Beek casts aside sterile 5-star rating systems and lets users discuss and react to books while they are actually reading them.",
         "type": "Social Networking",
@@ -48587,7 +48587,7 @@
     {
         "ID": 124,
         "name": "Panashe Mahachi (Kitchener, Ontario, Canada / Mountain View, CA)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Panashe is co-founder of Lace, a marketplace for cities and other municipalities to find and purchase cutting-edge software. Local governments are increasingly interested in innovation; the Lace platform helps municipal staff to build smarter cities.",
         "type": "Government Technology",
@@ -48982,7 +48982,7 @@
     {
         "ID": 125,
         "name": "Samuel F. Poirier (Montreal)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Samuel is co-founder and CEO of Retinad, the preeminent analytics platform for virtual reality apps. Retinad helps developers create better VR content with tools such as heat maps and user emotional tracking so that consumers can enjoy a more immersive, personalized virtual reality experience.",
         "type": "Virtual Reality; Gaming",
@@ -49377,7 +49377,7 @@
     {
         "ID": 126,
         "name": "Sohail Prasad (Plano, TX / San Francisco)",
-        "batch": 6,
+        "batch": "6",
         "link": "https://www.businesswire.com/news/home/20160621006214/en/Thiel-Foundation-Announces-2016-Thiel-Fellows",
         "description": "Sohail is the founder and co-CEO of Equidate, a secondary marketplace for shares in private companies. To date, Equidate has helped thousands of employees at private companies sell portions of their stock to accredited investors in the absence of an IPO or corporate sale.",
         "type": "Financial Technology",
@@ -49772,7 +49772,7 @@
     {
         "ID": 127,
         "name": "Ashish Pandhi (New York, NY)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Ashish founded Bettr, a service that creates a more unified social media management experience.",
         "type": "Software",
@@ -50167,7 +50167,7 @@
     {
         "ID": 128,
         "name": "Colton Jang (Berkeley, CA)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Colton is working on a machine learning company.",
         "type": "Machine Learning",
@@ -50562,7 +50562,7 @@
     {
         "ID": 129,
         "name": "Daria Evdokimova (Moscow, Russia / San Francisco, CA)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Daria founded VoiceOps, an AI platform for analyzing enterprise voice. The platform analyzes sales and support conversations to maximize successful outcomes.",
         "type": "Artificial Intelligence",
@@ -50957,7 +50957,7 @@
     {
         "ID": 130,
         "name": "Dean Travers (London, England / Boston, MA)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Dean is CEO and co-founder of Luminopia, a virtual reality healthcare startup initially focused on treating lazy eye.",
         "type": "Digital Therapeutics",
@@ -51352,7 +51352,7 @@
     {
         "ID": 131,
         "name": "Fred Turner (Halifax, UK / Santa Clara, CA)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Fred founded TL Biolabs, a company building a low-cost genotyping platform for farmers to understand an animal\u2019s likely productivity and disease susceptibility at birth, allowing for increased profits and reduced environmental impact.",
         "type": "Genomics",
@@ -51747,7 +51747,7 @@
     {
         "ID": 132,
         "name": "Helson Taveras (San Francisco, CA)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Helson founded Riley, which provides lead qualification as a service. Riley helps businesses prioritize their sales leads by responding to them within two minutes, 24/7.",
         "type": "Real Estate Technology",
@@ -52142,7 +52142,7 @@
     {
         "ID": 133,
         "name": "Iddo Gino (Haifa, Israel / San Francisco, CA)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Iddo founded RapidAPI, which helps nearly half a million developers find, test, and deploy APIs.",
         "type": "Software",
@@ -52537,7 +52537,7 @@
     {
         "ID": 134,
         "name": "James Graham (Boston, MA)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "James founded Caffeine, which uses a new Internet protocol to improve the load-speed of mobile apps by up to three times.",
         "type": "Enterprise Software",
@@ -52932,7 +52932,7 @@
     {
         "ID": 135,
         "name": "Jesper Theil Thomsen (Virum, Denmark / Los Angeles)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Jesper is CEO of SOUNDBOKS. Its first product is the world\u2019s loudest battery-powered speaker.",
         "type": "Hardware",
@@ -53327,7 +53327,7 @@
     {
         "ID": 136,
         "name": "Jordan DeCicco (New York, NY)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Jordan founded Sunniva, whose first product, SuperCoffee, blends coffee, protein, and superfoods.",
         "type": "Health/Wellness",
@@ -53722,7 +53722,7 @@
     {
         "ID": 137,
         "name": "Jorge Izquierdo (Madrid, Spain)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Jorge founded Aragon, a platform for creating and managing effective decentralized organizations using blockchain technology to enhance corporate governance.",
         "type": "Cryptocurrency",
@@ -54117,7 +54117,7 @@
     {
         "ID": 138,
         "name": "Laura Vaughan (Ottawa, Canada / Waterloo, Canada)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Laura is co-founder of Acorn Cryotech, a biotechnology company that conveniently cryopreserves clients\u2019 stem cells.",
         "type": "Biotechnology",
@@ -54512,7 +54512,7 @@
     {
         "ID": 139,
         "name": "Lani Lazzari (Pittsburgh, PA)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Lani founded Simple Sugars, an all-natural skincare line developed especially for sensitive skin. Simple Sugars products are sold online and in over 400 retail locations throughout the US.",
         "type": "Skincare/Beauty",
@@ -54907,7 +54907,7 @@
     {
         "ID": 140,
         "name": "Mark Prokoudine (Moscow / Toronto / San Francisco)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Mark is CEO of Kickback, a company building the casino of the future. Kickback allows users to bet on video games like CS:GO and DotA.",
         "type": "Gaming",
@@ -55302,7 +55302,7 @@
     {
         "ID": 141,
         "name": "Micah Green (Austin, TX)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Micah founded Maidbot, a robotics company that created the first housekeeping robot for hotels.",
         "type": "Robotics",
@@ -55697,7 +55697,7 @@
     {
         "ID": 142,
         "name": "Nicholas Shekerdemian (London / San Francisco / Hong Kong)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Nicholas co-founded Headstart, which uses machine learning to help companies identify who they should hire.",
         "type": "Recruitment Software",
@@ -56092,7 +56092,7 @@
     {
         "ID": 143,
         "name": "Peeyush Shirvastava (Kuala Belait, Brunei / Mason, Ohio)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Peeyush is CEO of Genetesis, a medical device company that developed CardioFlux, an imaging platform that leverages next-generation sensors and advanced computing to noninvasively measure and analyze the heart\u2019s natural magnetic fields.",
         "type": "Medical Device",
@@ -56487,7 +56487,7 @@
     {
         "ID": 144,
         "name": "Phat Le (Portland, OR)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Phat is a founder of Sleeker, which uses unique insights and data to help auto service centers increase revenue via effective scheduling and customer messaging.",
         "type": "SaaS",
@@ -56882,7 +56882,7 @@
     {
         "ID": 145,
         "name": "Prahasith Veluvolu (Indianapolis)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Prahasith is CEO of Mimir, which builds a classroom automation tool for computer science and programming courses.",
         "type": "Software",
@@ -57277,7 +57277,7 @@
     {
         "ID": 146,
         "name": "Robert Kirstiuk (New Brunswick, Canada / Vancouver / Seattle)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Robert is CEO and co-founder of Coastline Market, a predictive marketplace that allows commercial seafood harvesters to sell their fish to storefront businesses in advance of boat landings.",
         "type": "Seafood Marketplace",
@@ -57672,7 +57672,7 @@
     {
         "ID": 147,
         "name": "Sam Bernstein (New York, NY)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Sam is CEO and co-founder of LoftSmart, the first end-to-end marketplace for student rentals. Students across the country use LoftSmart to discover, lease, and pay for local rentals instantly.",
         "type": "Real Estate Technology",
@@ -58067,7 +58067,7 @@
     {
         "ID": 148,
         "name": "Shahed Kahn (San Francisco, CA)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Shahed founded Loom, a cloud-based video messaging service used by more than 200,000 employees at companies such as Hubspot, Uber, and Nielsen.",
         "type": "SaaS",
@@ -58462,7 +58462,7 @@
     {
         "ID": 149,
         "name": "Sol Chen (Cambridge, MA)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Sol founded Clara, which is building a platform to support patients throughout the clinical trial process, from identification to enrollment and beyond.",
         "type": "Health Technology",
@@ -58857,7 +58857,7 @@
     {
         "ID": 150,
         "name": "Tara Bosch (Vancouver, BC)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Tara founded SmartSweets. SmartSweets innovates confectionary products that kick sugar - naturally.",
         "type": "Wellness",
@@ -59252,7 +59252,7 @@
     {
         "ID": 151,
         "name": "Zaid Rahman (Dubai, United Arab Emirates/ San Francisco, CA)",
-        "batch": 7,
+        "batch": "7",
         "link": "https://www.businesswire.com/news/home/20170616005607/en/Thiel-Foundation-Announces-2017-Thiel-Fellows",
         "description": "Zaid is CEO of Volley, an artificial intelligence company focused on personalizing enterprise learning.",
         "type": "Artificial Intelligence",
@@ -59647,7 +59647,7 @@
     {
         "ID": 152,
         "name": "Andr\u00e9 Bertram (Toronto, Canada)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Andr\u00e9 is CEO of HelpWear, a company creating a 24/7 at-home, clinical-grade ECG monitor worn on a patient's wrist or arm.",
         "type": "Medical device",
@@ -60042,7 +60042,7 @@
     {
         "ID": 153,
         "name": "Andrew Sampson (Dallas, GA)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Andrew is a co-founder and CEO of Rainway, a web-based game-streaming platform that lets users play their favorite PC games anywhere, across a variety of different devices.",
         "type": "Game streaming",
@@ -60437,7 +60437,7 @@
     {
         "ID": 154,
         "name": "Aparna Krishnan (Chennai, India / Muscat, Oman / Berkeley, CA)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Aparna is a co-founder and CEO of Mechanism Labs, the world's first open source research lab. It tackles pressing problems in blockchain through cryptoeconomics, currently focusing on incentive design and alternative consensus.",
         "type": "Blockchain",
@@ -60832,7 +60832,7 @@
     {
         "ID": 155,
         "name": "Axel Ericsson (San Francisco, CA / Stockholm, Sweden)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Axel is a co-founder of Vest, a company building software for Ethereum and other blockchains that enables users to earn interest on their cryptocurrency.",
         "type": "Blockchain",
@@ -61227,7 +61227,7 @@
     {
         "ID": 156,
         "name": "Daniel Ternyak (Minneapolis, MN)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Daniel is the CTO of MyCrypto, and is helping to facilitate the transition to a decentralized society by bringing accessibility to Ethereum and other blockchains.",
         "type": "Blockchain",
@@ -61622,7 +61622,7 @@
     {
         "ID": 157,
         "name": "Divyaditya (Divy) Shrivastava (Madhya Pradesh, India / Lewis Center, OH)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Divy is creating technology that helps firefighters respond faster and more accurately to the exact location of an emergency.",
         "type": "Software, hardware",
@@ -62017,7 +62017,7 @@
     {
         "ID": 158,
         "name": "Erin Smith (Lenexa, KS)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Erin founded FacePrint, an AI tool to diagnose and monitor Parkinson's disease and commonly misidentified neurological disorders using video technology and early-stage facial muscle indicators.",
         "type": "Health IT",
@@ -62412,7 +62412,7 @@
     {
         "ID": 159,
         "name": "Gemma Busoni (San Salvador, El Salvador / Los Angeles, CA)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Gemma is a co-founder of Discovr Labs, which uses VR/AR immersive technology to deliver the most effective education and training experiences.",
         "type": "Virtual Reality / Augmented Reality",
@@ -62807,7 +62807,7 @@
     {
         "ID": 160,
         "name": "Greg Tseng (Weston, MA)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Greg founded Diluvian, a company that has developed new privacy technologies to help everyone better protect their personal and business information.",
         "type": "Privacy technology",
@@ -63202,7 +63202,7 @@
     {
         "ID": 161,
         "name": "Jamie Cox (Oxford, U.K.)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Jamie is a co-founder of Flare, which is building technology to turn any internet-connected device into a cloud server and eventually build the infrastructure for a new decentralized internet.",
         "type": "Internet infrastructure",
@@ -63597,7 +63597,7 @@
     {
         "ID": 162,
         "name": "Joey Varikooty (Edison, NJ)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Joey is a co-founder of Amber Agriculture, a company leveraging the latest in analytics and automation to manage, protect and market grain.",
         "type": "Hardware",
@@ -63992,7 +63992,7 @@
     {
         "ID": 163,
         "name": "Joshua Browder (London, U.K.)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Joshua is the founder and CEO of DoNotPay, the world's first robot lawyer, which aims to make the law free, automated and instant for consumers.",
         "type": "Artificial intelligence",
@@ -64387,7 +64387,7 @@
     {
         "ID": 164,
         "name": "Josh Sakhai (Great Neck, NY)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Josh is a co-founder of Ephemeral Tattoos, a company developing a suite of semi-permanent tattoo inks\u2014applied by tattoo artists\u2014 that disappear completely on their own.",
         "type": "Consumer biotechnology",
@@ -64782,7 +64782,7 @@
     {
         "ID": 165,
         "name": "Juli\u00e1n R\u00edos (Monterrey, Nuevo Le\u00f3n, Mexico)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Juli\u00e1n is a co-founder and CEO of Higia Technologies, a company developing an accessible and non-invasive wearable device for breast cancer risk assessment.",
         "type": "Wearables",
@@ -65177,7 +65177,7 @@
     {
         "ID": 166,
         "name": "Kimberlie Le (Edmonton, Canada / San Francisco, CA)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Kimberlie is a co-founder and CEO of Terramino Foods, which uses fungi-based protein to replicate the taste, texture, and nutrition of seafood and meat.",
         "type": "Food technology",
@@ -65572,7 +65572,7 @@
     {
         "ID": 167,
         "name": "Liam Berryman (San Mateo, CA)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Liam is a co-founder and CEO of Nelumbo, a company that has developed a new materials platform that is able to significantly increase the energy efficiency of any refrigeration system.",
         "type": "Energy efficiency",
@@ -65967,7 +65967,7 @@
     {
         "ID": 168,
         "name": "Meghan Sharkus (Oregon, WI)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Meghan is a founder and CEO of ExpressionMed, a company that creates supplemental adhesives for wearable devices in chronic care, allowing people with diabetes to wear their devices longer, more comfortably, and without pain or residue upon removal.",
         "type": "Medical accessory",
@@ -66362,7 +66362,7 @@
     {
         "ID": 169,
         "name": "Robert Habermeier (Bethesda, MD)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Robert is a co-founder of Polkadot, a project that aims to reshape the existing internet structure into a completely decentralized web.",
         "type": "Blockchain",
@@ -66757,7 +66757,7 @@
     {
         "ID": 170,
         "name": "Shak Lakhani (Richmond Hill, Ontario, Canada)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Shak is a co-founder of Avro Life Science, a company developing skin patches for generic drug delivery. Avro's easy-to-use patches are made from a novel polymer and allow multiple medications to work faster and last longer.",
         "type": "Biotechnology",
@@ -67152,7 +67152,7 @@
     {
         "ID": 171,
         "name": "Tapa Ghosh (Portland, OR)",
-        "batch": 8,
+        "batch": "8",
         "link": "https://www.businesswire.com/news/home/20180622005131/en/Thiel-Foundation-Announces-2018-Thiel-Fellows",
         "description": "Tapa is the founder and CEO of Vathys, a company creating machine learning chips that operate 10x faster than current options.",
         "type": "Computer processors",
@@ -67547,7 +67547,7 @@
     {
         "ID": 172,
         "name": "Adam Pollack: Oyster Bay, NY/Denver, CO",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "BoardRE is a new type of mortgage company that upgrades any offer to a cash offer, giving every buyer who can afford a mortgage a better shot at winning their dream home.",
         "type": "Real Estate, Financial Technology",
@@ -67942,7 +67942,7 @@
     {
         "ID": 173,
         "name": "Andrei Serban: Mississauga, Ontario/San Francisco, CA",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Fuzzbuzz is an automated software testing platform that generates and runs thousands of tests per second to help developers find bugs and security vulnerabilities in their code.",
         "type": "Software, Cybersecurity",
@@ -68337,7 +68337,7 @@
     {
         "ID": 174,
         "name": "Andrew Ninh: Fountain Valley, CA/San Francisco, CA",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Docbot has developed better computer vision software to save people from colon and stomach cancers by helping colonoscopists identify more precancerous polyps.",
         "type": "Healthcare, Medical Device, Health IT",
@@ -68732,7 +68732,7 @@
     {
         "ID": 175,
         "name": "Claire Coder: Toledo, OH/Columbus, OH & New York City, NY",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Aunt Flow supplies free-vend dispensers and 100% organic cotton menstrual products to businesses and schools to ensure that everyone has access to healthy, sustainable wellness products wherever they are.",
         "type": "Healthcare, Feminine Hygiene",
@@ -69127,7 +69127,7 @@
     {
         "ID": 176,
         "name": "Davis Foster: Boston, MA/Boulder, CO",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Scythe Robotics is building industrial-scale, computer vision-driven autonomous lawn mowers for commercial landscaping contexts.",
         "type": "Robotics, Hardware, Autonomous Vehicles",
@@ -69522,7 +69522,7 @@
     {
         "ID": 177,
         "name": "Emily Wang: New Haven, CT/New York, NY",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Canairy\u2019s software platform tracks and monitors chronic respiratory diseases by using signal processing and machine learning to evaluate qualities and changes in a person\u2019s cough or voice.",
         "type": "Healthcare IT, Healthcare AI, Healthcare Technology",
@@ -69917,7 +69917,7 @@
     {
         "ID": 178,
         "name": "Iddris Sandu: Ghana/Los Angeles, CA",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Iddris is a designer and engineer focused on creating a resource hub to empower African youth through sustainable design and technology.",
         "type": "Technology, Design",
@@ -70312,7 +70312,7 @@
     {
         "ID": 179,
         "name": "Ilayda Buyukdogan: Istanbul, Turkey/Copenhagen, Denmark",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Compocket is disrupting traditional electronics measurement device manufacturers by creating pocket-sized and mobile-based smart devices, starting with a mini oscilloscope.",
         "type": "Hardware",
@@ -70707,7 +70707,7 @@
     {
         "ID": 180,
         "name": "Jake Hillard: Salt Lake City, UT/Palo Alto, CA",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Red Leader is building a software-defined Lidar system that uses a fundamentally new architecture and modern digital signal processing to dramatically improve point density.",
         "type": "Lidar, Hardware",
@@ -71102,7 +71102,7 @@
     {
         "ID": 181,
         "name": "Jamie Marshall: Providence, RI/Berkeley, CA",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Snackpass is an app that lets college students order takeout, earn rewards, and share discounts with friends.",
         "type": "Consumer, Software",
@@ -71497,7 +71497,7 @@
     {
         "ID": 182,
         "name": "Joanne Peng: Regina, Saskatchewan/Victoria, British Columbia",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Joanne is a longevity researcher working with blood-based biomarkers to better understand how people age.",
         "type": "Biology Research",
@@ -71892,7 +71892,7 @@
     {
         "ID": 183,
         "name": "John Andrew Entwistle: Katonah, NY/Austin, TX",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Coder eliminates the limitations of the local machine for software engineers by moving software development to the cloud.",
         "type": "Software Development",
@@ -72287,7 +72287,7 @@
     {
         "ID": 184,
         "name": "Kai Kloepfer: Boulder, CO/Boston, MA",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Biofire is building smart guns that use advanced biometric technology to enable radically safer ownership of firearms.",
         "type": "Hardware, Smart Guns",
@@ -72682,7 +72682,7 @@
     {
         "ID": 185,
         "name": "Matthew DiMarcantonio: Williamsburg, VA/Reston, VA",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Marble makes elegant self-ordering kiosks for cashier-free checkout at restaurants. The company has processed 250,000 orders and will soon launch with several national chains.",
         "type": "SaaS, Enterprise Software, Software",
@@ -73077,7 +73077,7 @@
     {
         "ID": 186,
         "name": "Mel Du: Houston, TX/Denver, CO",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Ramp USA is expanding mobility for wheelchair users by developing a conversion kit that turns a normal wheelchair into an easy-to-use, off-road capable electric vehicle.",
         "type": "Medical Robotics, Electric Vehicles",
@@ -73472,7 +73472,7 @@
     {
         "ID": 187,
         "name": "Neiman Mathew: Portland, OR/Palo Alto, CA",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Hex is a scientific research company working on quantum computing, supercapacitors, and superconductivity.",
         "type": "Polymer Nanotechnology",
@@ -73867,7 +73867,7 @@
     {
         "ID": 188,
         "name": "Paige Brown: Bangor, ME/Palo Alto, CA",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "WindBorne\u2019s high-altitude weather balloon system flies up to 60x longer than existing offerings, allowing it to provide high-resolution atmospheric data and superior weather prediction services to clients in agriculture, transportation, and disaster preparedness settings.",
         "type": "WindBorne",
@@ -74262,7 +74262,7 @@
     {
         "ID": 189,
         "name": "Phillip Chao: Shanghai, China/San Francisco, CA",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Doppler is a modern configuration and secrets management tool that helps teams and businesses secure, store and manage API keys, tokens, database credentials, and other sensitive information.",
         "type": "Software",
@@ -74657,7 +74657,7 @@
     {
         "ID": 190,
         "name": "Rohit Kalyanpur: Sammamish, WA/Chicago, IL",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Optivolt Labs develops remarkably efficient solar arrays that easily integrate to power existing devices like drones, scooters, and robotics.",
         "type": "Decentralized Energy",
@@ -75052,7 +75052,7 @@
     {
         "ID": 191,
         "name": "Sean Henry: Atlanta, GA",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "STORD provides networked, flexible, and on-demand warehousing, freight, and software solutions that cut transit times and optimize supply chains.",
         "type": "Logistics Technology",
@@ -75447,7 +75447,7 @@
     {
         "ID": 192,
         "name": "Tieshun Roquerre: Boston, MA/San Francisco, CA",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Namebase is a domain registrar and exchange for the Handshake blockchain; Handshake is a decentralized, permissionless naming protocol.",
         "type": "Cryptocurrency, Blockchain, Decentralized DNS",
@@ -75842,7 +75842,7 @@
     {
         "ID": 193,
         "name": "Will Manidis: West Chester, PA/Boston, MA",
-        "batch": 9,
+        "batch": "9",
         "link": "https://www.businesswire.com/news/home/20190710005246/en/Thiel-Foundation-Announces-2019-Thiel-Fellows",
         "description": "Cascade is rethinking how biomedical researchers find and share technical information in order to accelerate therapeutic and clinical workflows.",
         "type": "Biotech, Healthcare",
@@ -76237,7 +76237,7 @@
     {
         "ID": 194,
         "name": "Aaron Hannon: Galway, Ireland",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Lily Devices is developing medical devices to prevent hair loss during chemotherapy.",
         "type": null,
@@ -76632,7 +76632,7 @@
     {
         "ID": 195,
         "name": "Adam Guild: Los Angeles, CA",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Profitboss makes online ordering and marketing software for independent restaurants, helping restaurant owners increase sales and maximize profitability while keeping their customer data safe from third party delivery companies.",
         "type": null,
@@ -77027,7 +77027,7 @@
     {
         "ID": 196,
         "name": "Ben Stern: Melbourne, FL",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Nohbo aims to eliminate single-use plastic bottles in the hospitality industry by manufacturing water soluble drops containing shampoo, soap, and other personal care items.",
         "type": null,
@@ -77422,7 +77422,7 @@
     {
         "ID": 197,
         "name": "Blake Resnick: Las Vegas, NV",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Brinc Drones designs and manufactures advanced aerial robots that help tactical teams respond to barricade, hostage, and active shooter situations.",
         "type": null,
@@ -77817,7 +77817,7 @@
     {
         "ID": 198,
         "name": "Brandon Wang: San Francisco, CA",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Dreambound provides low-income Americans with planning tools and financing for workforce training courses, starting with a certified nursing assistant (CNA) program.",
         "type": null,
@@ -78212,7 +78212,7 @@
     {
         "ID": 199,
         "name": "Brian Gu: Seattle, WA",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Dark Forest is the world's first decentralized real-time strategy game, built on Ethereum with zkSNARKs.",
         "type": null,
@@ -78607,7 +78607,7 @@
     {
         "ID": 200,
         "name": "Dylan Diamond: New York, NY",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Saturn is an app that builds community through the calendar, focusing on helping high schoolers make plans and share schedules with friends.",
         "type": null,
@@ -79002,7 +79002,7 @@
     {
         "ID": 201,
         "name": "Griffin Barnicutt: Waterloo, Ontario",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Palitronica builds software that protect critical infrastructure and military systems, by detecting compromised parts in the supply chain and monitoring for cyber attacks and tampering.",
         "type": null,
@@ -79397,7 +79397,7 @@
     {
         "ID": 202,
         "name": "Ignacio Belieres Montero: Buenos Aires, Argentina",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Epic Aerospace is building a last-mile delivery service for rockets and satellites.",
         "type": null,
@@ -79792,7 +79792,7 @@
     {
         "ID": 203,
         "name": "Jasmine Wang: Edmonton, Alberta",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "When she\u2019s not working on Copysmith, a service that uses AI to turn keywords into written copy, Jasmine is writing a speculative fiction novel.",
         "type": null,
@@ -80187,7 +80187,7 @@
     {
         "ID": 204,
         "name": "Joseph Kitonga: Philadelphia, PA",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Vitable offers its members primary and urgent care medical coverage, utilizing virtual and in-home visits, with no copays.",
         "type": null,
@@ -80582,7 +80582,7 @@
     {
         "ID": 205,
         "name": "Kenta Iwasaki: Tokyo, Japan",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Hyperia is the first decentralized virtual power plant that traces, analyzes, and distributes energy to households and enterprises from renewable energy sources.",
         "type": null,
@@ -80977,7 +80977,7 @@
     {
         "ID": 206,
         "name": "Lyn Chen: Toronto, Canada",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "LayerCI\u2019s cloud-based SaaS provides software developers with efficient CI/CD + staging environments so they can build full-stack web apps faster.",
         "type": null,
@@ -81372,7 +81372,7 @@
     {
         "ID": 207,
         "name": "Margaret Nyawira Karaba: Nairobi, Kenya",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Nurture and Reset sells highly nutritious moringa teas and powder, sourced from partner farmers in Kenya who receive fair wages and benefits.",
         "type": null,
@@ -81767,7 +81767,7 @@
     {
         "ID": 208,
         "name": "Michael Broughton: Los Angeles, CA",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Perch helps users instantly boost their credit scores by using recurring expenses such as streaming subscriptions and rent payments.",
         "type": null,
@@ -82162,7 +82162,7 @@
     {
         "ID": 209,
         "name": "Michael Chime: Broadview Heights, OH",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Prepared makes software that provides comprehensive support for educators and law enforcement during emergencies at school.",
         "type": null,
@@ -82557,7 +82557,7 @@
     {
         "ID": 210,
         "name": "Phoebe Yao: St. Louis, MO",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Pareto is a human API for business operations, helping entrepreneurs to outsource repetitive tasks.",
         "type": null,
@@ -82952,7 +82952,7 @@
     {
         "ID": 211,
         "name": "Robbie Ferguson: Sydney, Australia",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Immutable develops software that powers the world's most popular blockchain games.",
         "type": null,
@@ -83347,7 +83347,7 @@
     {
         "ID": 212,
         "name": "Scott Fitsimones: San Francisco, CA",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "AirGarage has developed a suite of technical solutions for parking lot management: enforcement, payment collection, visitor registration, customer support, and more.",
         "type": null,
@@ -83742,7 +83742,7 @@
     {
         "ID": 213,
         "name": "Shane Curran: Dublin, Ireland",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Evervault is building a data protection solution that helps developers encrypt sensitive data as soon as it leaves a user\u2019s device.",
         "type": null,
@@ -84137,7 +84137,7 @@
     {
         "ID": 214,
         "name": "Sheridan Clayborne: San Francisco, CA",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "LendTable provides cash advances to people to help them enroll in and take advantage of their employer\u2019s 401(k) match program.",
         "type": null,
@@ -84532,7 +84532,7 @@
     {
         "ID": 215,
         "name": "Stephanie Mills: Newmarket, Ontario",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "CodeGem integrates with existing workflows to analyze a software team's productivity, collaboration, and engagement.",
         "type": null,
@@ -84927,7 +84927,7 @@
     {
         "ID": 216,
         "name": "Thomas Suarez: Los Angeles, CA",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Teleportal is a spatial computing company building a 3D operating system that will empower users to connect to shared mixed reality experiences in realtime.",
         "type": null,
@@ -85322,7 +85322,7 @@
     {
         "ID": 217,
         "name": "Toni Oloko: New York, NY",
-        "batch": 10,
+        "batch": "10",
         "link": "https://www.businesswire.com/news/home/20201230005363/en/Thiel-Foundation-Announces-2020-Thiel-Fellows",
         "description": "Dandy is a business-in-a-box for dentists, and aims to become the operating system for dentistry in America as the dental industry digitizes.",
         "type": null,
@@ -85717,7 +85717,7 @@
     {
         "ID": 218,
         "name": "Alex Taylor: 20, Lowell, MI",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Orb Aerospace creates electric aircraft to meet the needs of developing nations.",
         "type": null,
@@ -86112,7 +86112,7 @@
     {
         "ID": 219,
         "name": "Alfonso de los Rios: 23, Monterrey, M\u00e9xico",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Nowports facilitates the import and export process of Latin American companies across seven different countries.",
         "type": null,
@@ -86507,7 +86507,7 @@
     {
         "ID": 220,
         "name": "Ana Cornell: 21, Chicago, IL",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Acorn Genetics is an at-home DNA testing company, focused on delivering consumers affordable and accurate genetic results while keeping data private.",
         "type": null,
@@ -86902,7 +86902,7 @@
     {
         "ID": 221,
         "name": "Ariana Sokolov: 20, Los Angeles, CA",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Ariana is creating better and more affordable tools and testing for neurodiverse individuals (those with ADHD, dyslexia, mild autism, etc).",
         "type": null,
@@ -87297,7 +87297,7 @@
     {
         "ID": 222,
         "name": "Ben Botvinick: 19, Palo Alto, CA",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Hyper allows anyone to start an online business and begin accepting payments in a matter of minutes.",
         "type": null,
@@ -87692,7 +87692,7 @@
     {
         "ID": 223,
         "name": "Ben Nashman: 21, Toronto, ON",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Synex Medical is building the next generation of non-invasive health monitoring technology, beginning with the world\u2019s first non-invasive glucose monitor.",
         "type": null,
@@ -88087,7 +88087,7 @@
     {
         "ID": 224,
         "name": "Dayton Mills: 23, Seattle, WA",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Branch.gg is a socialgaming platform focused on creating, sharing and monetizing instantly playable games and experiences in the metaverse.",
         "type": null,
@@ -88482,7 +88482,7 @@
     {
         "ID": 225,
         "name": "Edward Beccle: 22, London, UK",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Glorify is a Christian daily worship application creating space for users to connect with God and their community.",
         "type": null,
@@ -88877,7 +88877,7 @@
     {
         "ID": 226,
         "name": "Geffen Avraham: 20, Hod Hasharon, Israel / San Francisco, CA",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Launching his first satellite at 18, Geffen created Skyline Celestial to build the personal computer of satellites and open the cosmos for all individuals.",
         "type": null,
@@ -89272,7 +89272,7 @@
     {
         "ID": 227,
         "name": "Ian Lee: 20, Santiago, Chile",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Examedi is a healthcare-at-home marketplace in Latin America connecting patients to nurses to perform clinical lab tests at home.",
         "type": null,
@@ -89667,7 +89667,7 @@
     {
         "ID": 228,
         "name": "James Dacombe: 21, London, UK",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "CoMind is developing non-invasive neuroimaging tools to detect a range of signals and create a seamless interface to the brain.",
         "type": null,
@@ -90062,7 +90062,7 @@
     {
         "ID": 229,
         "name": "John Ciocca: 21, Bonita Springs, FL",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Purple builds financial products that enable people with disabilities to spend, save and invest.",
         "type": null,
@@ -90457,7 +90457,7 @@
     {
         "ID": 230,
         "name": "Kiara Nirghin: 21, San Francisco, CA",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Rather is building financial technology to improve access to net worth building asset classes for the new generation.",
         "type": null,
@@ -90852,7 +90852,7 @@
     {
         "ID": 231,
         "name": "Lada Nuzhna: 22, Kyiv, Ukraine",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Lada researches and develops biological tools to better visualize and manage biology at the molecular level.",
         "type": null,
@@ -91247,7 +91247,7 @@
     {
         "ID": 232,
         "name": "Michael Lee: 23, Austin, TX",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Biodock is a computer vision platform for scientists, helping them more effectively understand their experiments and discover new insights by identifying and quantifying biological objects through no-install, GPU-powered AI modules.",
         "type": null,
@@ -91642,7 +91642,7 @@
     {
         "ID": 233,
         "name": "Nastassia Ponomarenko: 22, San Francisco, CA",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Corecircle is a social fitness app empowering individuals to document and track their fitness journey in a like-minded community.",
         "type": null,
@@ -92037,7 +92037,7 @@
     {
         "ID": 234,
         "name": "Oliver Edholm: 19, Stockholm, Sweden",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Depict.ai provides online retailers with a product recommendation system allowing them to focus on continuing to make and curate exceptional products.",
         "type": null,
@@ -92432,7 +92432,7 @@
     {
         "ID": 235,
         "name": "Raina Jain: 19, Riverside, CT",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "QueenBee sustainably creates wellness products utilizing honeybee byproducts.",
         "type": null,
@@ -92827,7 +92827,7 @@
     {
         "ID": 236,
         "name": "Rachel Xu: 21, San Francisco, CA",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Rachel is building blockchain technology for artists and creatives to autonomously own their IP and profits.",
         "type": null,
@@ -93222,7 +93222,7 @@
     {
         "ID": 237,
         "name": "Ryan Park: 21, Seoul, Republic of Korea",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Anchor is a DeFi savings protocol that offers stable and attractive yields on stablecoin deposits. Anchor taps into block rewards of major proof-of-stake blockchains to generate yields countercyclical to market fluctuations.",
         "type": null,
@@ -93617,7 +93617,7 @@
     {
         "ID": 238,
         "name": "Tamara Chayo Romo: 22, Mexico City, M\u00e9xico",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "MEDU is a sustainable medical apparel producer providing healthcare professionals with the recyclable and innovative garments they need to remain protected while on the job.",
         "type": null,
@@ -94012,7 +94012,7 @@
     {
         "ID": 239,
         "name": "Tejas Manohar: 22, San Francisco, CA",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Hightouch provides the necessary tools for companies to supercharge their marketing and sales initiatives by syncing data from warehouses into the tools business teams rely on including Salesforce, HubSpot, Marketo, and Facebook ads.",
         "type": null,
@@ -94407,7 +94407,7 @@
     {
         "ID": 240,
         "name": "Tyler Bernstein: 23, Washington, D.C.",
-        "batch": 11,
+        "batch": "11",
         "link": "https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Zeno Power is developing small-scale nuclear power systems to provide clean and resilient power in austere environments.",
         "type": null,
@@ -94802,7 +94802,7 @@
     {
         "ID": 241,
         "name": "Akshaya Dinesh: San Francisco, CA",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Spellbound is building the future of email: a no-code platform to help marketing teams increase engagement by embedding interactive experiences like shopping carts, surveys, forms, and more in emails.",
         "type": null,
@@ -95197,7 +95197,7 @@
     {
         "ID": 242,
         "name": "Alex Singer: Montreal, Quebec",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Voldex is a game studio that acquires, improves, and builds games on user-generated content game platforms Roblox and Minecraft.",
         "type": null,
@@ -95592,7 +95592,7 @@
     {
         "ID": 243,
         "name": "Ethan Thornton: Boston, MA",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Mach Industries is pioneering a suite of defense systems to support unparalleled capability using new inventions in the hydrogen space.",
         "type": null,
@@ -95987,7 +95987,7 @@
     {
         "ID": 244,
         "name": "Hugo Chrost: San Francisco, CA // Warsaw, Poland",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Solvemed is introducing the world's most advanced digital phenotyping technology for brain evaluation.",
         "type": null,
@@ -96382,7 +96382,7 @@
     {
         "ID": 245,
         "name": "Ian Michael Brock: Chicago, IL",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Dream Hustle Code is creating a three-tiered approach toward a sustainable Gen Z workforce development pipeline.",
         "type": null,
@@ -96777,7 +96777,7 @@
     {
         "ID": 246,
         "name": "Jake Adler: Miami, FL",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Neusleep is building a next-generation wearable device that induces and improves sleep through personalized neurostimulation.",
         "type": null,
@@ -97172,7 +97172,7 @@
     {
         "ID": 247,
         "name": "John Guibas: Palo Alto, CA",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Succinct is building a trust-minimized way for any blockchain to access Ethereum.",
         "type": null,
@@ -97567,7 +97567,7 @@
     {
         "ID": 248,
         "name": "John McElhone: Los Angeles, CA",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "CropSafe automates farm banking, monitoring, and production forecasting using AI and satellite data.",
         "type": null,
@@ -97962,7 +97962,7 @@
     {
         "ID": 249,
         "name": "Kai Micah Mills: Salt Lake City, UT",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Cryopets is developing whole-body cryopreservation for pets.",
         "type": null,
@@ -98357,7 +98357,7 @@
     {
         "ID": 250,
         "name": "Kesava Kirupa Dinakaran: San Francisco, CA",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Luminai's one-click solutions streamline multi-step, manual workflows for customer service teams.",
         "type": null,
@@ -98752,7 +98752,7 @@
     {
         "ID": 251,
         "name": "Kian Sadeghi: Brooklyn, NY",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Nucleus Genomics is a next-generation consumer genetic testing and analysis company.",
         "type": null,
@@ -99147,7 +99147,7 @@
     {
         "ID": 252,
         "name": "Markie Wagner: Los Angeles, CA",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Delphi Labs is a frontier tech research and advisory firm with a focus on applied AI.",
         "type": null,
@@ -99542,7 +99542,7 @@
     {
         "ID": 253,
         "name": "Michael Ioffe: Portland, OR // New York, NY",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Arist helps leading companies build skills at scale by delivering bite-sized learning via SMS, Slack, and MS Teams.",
         "type": null,
@@ -99937,7 +99937,7 @@
     {
         "ID": 254,
         "name": "Nik Shevchenko: San Francisco, CA",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "WeLoveNoCode is a no-code marketplace connecting more than 50,000 freelancers to full-time, long-term remote jobs in the most successful and fastest growing companies.",
         "type": null,
@@ -100332,7 +100332,7 @@
     {
         "ID": 255,
         "name": "Quinn Favret: Austin, TX // New York, NY",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Tavus uses AI to programmatically generate personalized videos of you (with your voice and face) at scale.",
         "type": null,
@@ -100727,7 +100727,7 @@
     {
         "ID": 256,
         "name": "Reiss Jones: Manchester, England",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Macro Energy is building a way to produce a cheap and accessible carbon-negative energy source.",
         "type": null,
@@ -101122,7 +101122,7 @@
     {
         "ID": 257,
         "name": "Samarth Athreya: Burlington, Ontario // San Francisco, CA",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Axiome is pioneering single-molecule biosensors for novel drug discovery and diagnostic applications.",
         "type": null,
@@ -101517,7 +101517,7 @@
     {
         "ID": 258,
         "name": "Sara Du: New York, NY",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Alloy is a leading integration and automation platform for commerce.",
         "type": null,
@@ -101912,7 +101912,7 @@
     {
         "ID": 259,
         "name": "Sonny Mo: San Francisco, CA",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Bloom helps the next generation of Americans become more financially literate and build wealth.",
         "type": null,
@@ -102307,7 +102307,7 @@
     {
         "ID": 260,
         "name": "Victor Cardenas: San Francisco, CA",
-        "batch": 12,
+        "batch": "12",
         "link": "https://www.businesswire.com/news/home/20230208005685/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Slash lets entrepreneurs who are 13-years-old or older open a business bank account without an LLC in less than 10 minutes.",
         "type": null,
@@ -102702,7 +102702,7 @@
     {
         "ID": 261,
         "name": "Adarsh Hiremath: Sunnyvale, CA",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Mercor is building AI vetting infrastructure to understand the exact tasks people are good at. Mercor\u2019s AI interviewer conducts superhuman interviews by asking questions tailored to every candidate\u2019s individual background.",
         "type": null,
@@ -103097,7 +103097,7 @@
     {
         "ID": 262,
         "name": "Alexandra Debow: Hong Kong",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "swsh will be there to capture your memories - every celebration, birthday, and vacation - with an AI-powered shared photo album, ensuring you can make those unforgettable experiences happen again and again.",
         "type": null,
@@ -103492,7 +103492,7 @@
     {
         "ID": 263,
         "name": "Augustus Doricko: Stamford, CT",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Rainmaker is fulfilling humanity's role as responsible stewards of the Earth through pioneering advanced cloud-seeding technology to combat drought and transform deserts into habitable landscapes.",
         "type": null,
@@ -103887,7 +103887,7 @@
     {
         "ID": 264,
         "name": "Brendan Foody: Menlo Park, CA",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Mercor is creating a unified global labor market capable of facilitating interviews and evaluations of everyone on Earth. Labor aggregation is the most impactful opportunity in history.",
         "type": null,
@@ -104282,7 +104282,7 @@
     {
         "ID": 265,
         "name": "Charlie Wu: Fairfax, VA",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Orchard Robotics is putting eyes on each of the billions of fruit in orchards, and using AI to help farmers feed the world with the best food they've ever grown.",
         "type": null,
@@ -104677,7 +104677,7 @@
     {
         "ID": 266,
         "name": "Christopher Zhu: Boston, MA",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Etched is building the hardware for superintelligence, starting with transformer-specific AI chips that run models at unprecedented speeds and scale. Next-generation AI models are set to become GDP-scale investments, requiring the largest infrastructure buildout in history. Etched is creating a new computing paradigm to make this feasible.",
         "type": null,
@@ -105072,7 +105072,7 @@
     {
         "ID": 267,
         "name": "Diogenes Casares: Woodside, CA",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Stream seamlessly integrates the benefits of centralized exchanges with the decentralized nature of DeFi, enhancing liquidity and security while eliminating custodial risks and reshaping the landscape of crypto trading.",
         "type": null,
@@ -105467,7 +105467,7 @@
     {
         "ID": 268,
         "name": "Gavin Uberti: Seattle, WA",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Etched was founded because the next 100x of scale requires silicon to be customized for a model\u2019s architecture. Flexible AI chips don\u2019t make sense in a world where training a single model costs more than designing an entire chip.",
         "type": null,
@@ -105862,7 +105862,7 @@
     {
         "ID": 269,
         "name": "Govind Gnanakumar: Folsom, CA",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Automorphic is creating AI models that learn new information more efficiently than humans.",
         "type": null,
@@ -106257,7 +106257,7 @@
     {
         "ID": 270,
         "name": "Felipe Meneses: Aracaju, Brazil",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Hyperplane is a data intelligence platform that empowers financial institutions to make multi-billion dollar decisions using specialized LLMs trained on consumer banking data, enabling the rapid creation of hundreds of state-of-the-art predictive models.",
         "type": null,
@@ -106652,7 +106652,7 @@
     {
         "ID": 271,
         "name": "Jacob Rodriguez: Los Angeles, CA",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Oligo is revolutionizing the production of space-grade hardware and orbit-ready spacecraft through making the process as efficient and accessible as manufacturing car parts.",
         "type": null,
@@ -107047,7 +107047,7 @@
     {
         "ID": 272,
         "name": "Joseph Semrai: Queens, NY",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Explore Interfaces is developing a contextual LLM-based operating system, enabling hyper-personalized applications and challenging long-held assumptions about the interaction between computers, devices, and our daily lives, ushering in a new era of human-computer interaction.",
         "type": null,
@@ -107442,7 +107442,7 @@
     {
         "ID": 273,
         "name": "Luke Farritor: Lincoln, NE",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "The Vesuvius Challenge is accelerating the reading of the Herculaneum Papyri, the last surviving library of the Roman Empire.",
         "type": null,
@@ -107837,7 +107837,7 @@
     {
         "ID": 274,
         "name": "Pavel Asparouhov: Salt Lake City, UT",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Silna is streamlining patient intake and building a more efficient infrastructure to allow providers to focus on world-class care and to ease the trillion-dollar tax burden that is the US healthcare system.",
         "type": null,
@@ -108232,7 +108232,7 @@
     {
         "ID": 275,
         "name": "Peter Hansen: Chester, England",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Januus is mapping cryptowallets to physical locations and people on a global scale.",
         "type": null,
@@ -108627,7 +108627,7 @@
     {
         "ID": 276,
         "name": "Robert Wachen: Potomac, MD",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Etched is solving the compute cost and speed bottlenecks hampering every company on this list. Specialized AI chips are inevitable and will change the world.",
         "type": null,
@@ -109022,7 +109022,7 @@
     {
         "ID": 277,
         "name": "Surya Midha: San Jose, CA",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Mercor is utilizing AI vetting to create opportunities for millions of smart people who were previously undiscovered due to society\u2019s misplaced reliance on flawed signals like the prestige on someone\u2019s resume.",
         "type": null,
@@ -109417,7 +109417,7 @@
     {
         "ID": 278,
         "name": "Tarun Amasa: Manhattan, NY",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Endex is building the first autonomous and super-intelligent financial analyst.",
         "type": null,
@@ -109812,7 +109812,7 @@
     {
         "ID": 279,
         "name": "Walden Yan: Avon, CT",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "Cognition AI is an applied AI lab focused on reasoning. Their flagship product Devin, an AI software engineer and teammate, is ushering in a new era of economic prosperity.",
         "type": null,
@@ -110207,7 +110207,7 @@
     {
         "ID": 280,
         "name": "Yash Patil: Austin, TX",
-        "batch": 13,
+        "batch": "13",
         "link": "https://www.businesswire.com/news/home/20240320742346/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class",
         "description": "OpenAI research engineer evaluating language models and creating systems for machines to collaborate with less human oversight.",
         "type": null,
