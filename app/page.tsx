@@ -33,7 +33,7 @@ export default async function Page() {
           <Link className="text-black" href="https://github.com/whp-wessel/thiel-fellows-winners">
             github
           </Link>
-          <Link className="text-black" href="https://github.com/nqureshi/ev-search-python/blob/main/data/ev-winners.csv">
+          <Link className="text-black" href="https://github.com/whp-wessel/thiel-fellows-winners/blob/main/app/data/Thiel%20Fellowship%20Winners-%20Complete.csv">
             data
           </Link>
         </div>
