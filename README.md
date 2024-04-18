@@ -6,7 +6,7 @@ This repo is based on [Nabeel Qureshi](https://nabeelqu.co/)'s [EV Winners](http
 
 This site is an independent project and is not an official website of Thiel Fellowship.
 
-![](https://github.com/nqureshi/ev-winners/blob/main/public/ev-winners-recording.gif)
+![](https://github.com/whp-wessel/thiel-fellows-winners/blob/main/public/thiel-fellows-winners.gif)
 
 
 ## How it works
