@@ -1,23 +1,10 @@
 "use client";
 
-import { TableHeader, TableCell, TableRow, TableBody, Table, TableHead } from "@/components/ui/table";
-import {
-  ColumnDef,
-  flexRender,
-  getCoreRowModel,
-  useReactTable,
-  ColumnFiltersState,
-  getFilteredRowModel,
-} from "@tanstack/react-table";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select";
-import { Input } from "@/components/ui/input";
 import { useState } from "react";
+import { TableHeader, TableCell, TableRow, TableBody, Table, TableHead } from "@/components/ui/table";
+import { ColumnDef, flexRender, getCoreRowModel, useReactTable, ColumnFiltersState, getFilteredRowModel, } from "@tanstack/react-table";
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue, } from "@/components/ui/select";
+import { Input } from "@/components/ui/input";
 import { usePathname } from "next/navigation";
 
 interface WinnersTableProps<TData, TValue> {
@@ -32,7 +19,7 @@ export default function WinnersTable<TData, TValue>({
   query,
 }: WinnersTableProps<TData, TValue>) {
   const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>([]);
-  const [expanded, setExpanded] = useState<{ [key: string]: boolean }>({});
+  const [expanded, setExpanded] = useState<Record<string, boolean>>({});
 
   const table = useReactTable({
     data,
@@ -45,18 +32,28 @@ export default function WinnersTable<TData, TValue>({
     },
   });
 
-  // ... rest of your existing functions ...
+  const getBatchOptions = () => {
+    return Array.from(new Set(data.map((winner: any) => winner.batch)));
+  };
+  
+  const batchOptions = getBatchOptions();
+  const pathname = usePathname();
+  const handleClearSearch = () => {
+    location.replace(`${pathname}?query=`);
+  };
 
-  const toggleDescription = (rowId: string) => {
+  // ... your existing helper functions ...
+
+  const toggleDescription = (id: string) => {
     setExpanded(prev => ({
       ...prev,
-      [rowId]: !prev[rowId],
+      [id]: !prev[id],
     }));
   };
 
   return (
     <>
-      {/* ... rest of your existing JSX ... */}
+      {/* ... your existing JSX ... */}
       <div className="rounded-md border">
         <Table>
           <TableHeader>
@@ -68,19 +65,20 @@ export default function WinnersTable<TData, TValue>({
                 {row.getVisibleCells().map((cell) => {
                   if (cell.column.id === 'description') {
                     const isExpanded = expanded[row.id];
-                    const description = cell.render('Cell') as string;
+                    const description = cell.getValue() as string; // Use getValue() for cell value
                     return (
                       <TableCell key={cell.id}>
                         <div className={`description ${isExpanded ? 'expanded' : ''}`}>
                           {isExpanded || description.length < 100
                             ? description
                             : `${description.substring(0, 100)}...`}
-                          <button
+                          <span
                             onClick={() => toggleDescription(row.id)}
                             className={`read-more ${isExpanded ? 'hidden' : ''}`}
+                            style={{ color: 'blue', cursor: 'pointer', textDecoration: 'underline' }}
                           >
                             Read more
-                          </button>
+                          </span>
                         </div>
                       </TableCell>
                     );
