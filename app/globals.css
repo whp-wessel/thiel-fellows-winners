@@ -112,3 +112,26 @@
     display: none;
   }
 }
+/* Add this to your main CSS file */
+@media screen and (max-width: 768px) {
+  .description .read-more {
+    display: inline;
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+    padding-left: 5px;
+  }
+
+  .description:not(.expanded) {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 250px; /* Adjust as needed */
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .description .read-more {
+    display: none;
+  }
+}
