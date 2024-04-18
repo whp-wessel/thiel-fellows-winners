@@ -109,11 +109,11 @@ function customSort(a: any, b: any) {
                         defaultValue={(table.getColumn("batch")?.getFilterValue() as string) ?? ""}
                     >
                         <SelectTrigger>
-                            <SelectValue placeholder="Choose class..." />
+                            <SelectValue placeholder="Choose cohort..." />
                         </SelectTrigger>
                         <SelectContent>
                         <SelectItem key="clear_option" value="CLEAR_SELECTION">
-                            All Classes
+                            All cohorts
                         </SelectItem>
                         {batchOptions.sort(customSort).map((option) => (
                             <SelectItem key={option} value={option}>{option}</SelectItem>
