@@ -6,7 +6,7 @@ import { Analytics } from '@vercel/analytics/react';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Thiel Fellowship Winners',
+  title: 'Thiel Fellowship Winners🚀',
   description: 'Semantic search for all Thiel Fellowship winners.',
   twitter: {
     card: "summary_large_image",
